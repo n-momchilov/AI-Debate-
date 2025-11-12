@@ -1,0 +1,101 @@
+{
+  "cases": {
+    "case-1294f9f5": {
+      "description": "A parent briefly stopped (\u22482 minutes) in a disabled bay outside a pharmacy with hazard lights on to urgently pick up a child's life\u2011saving asthma medication during an acute episode. Pharmacy staff corroborate the timeline; security footage confirms no disabled permit holder attempted to use the space during that interval. A clinician note documents the child's condition and timing. Local ordinance recognizes a necessity defense for imminent threats to health and safety when no reasonable lawful alternative exists. The ticket cites \"no permit displayed\" but omits these mitigating facts.",
+      "title": "Medical Emergency Parking (Defense\u2011Favored)"
+    },
+    "case-5394a82f": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    }
+  },
+  "debates": {
+    "deb-61a4661a": {
+      "debate_id": "deb-61a4661a",
+      "case_id": "case-1294f9f5",
+      "status": "in_progress",
+      "timestamp": "2025-11-11T17:57:51.973498+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Pending \u2014 debate is still in progress; a detailed verdict will appear when all rounds finish.",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      }
+    },
+    "deb-250e7397": {
+      "debate_id": "deb-186aca3f",
+      "case_id": "case-5394a82f",
+      "status": "complete",
+      "timestamp": "2025-11-11T18:02:16.123815+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "As I stand before you today, I am compelled to defend my client's right to enjoy their own apartment, free from unfair restrictions on their private life. The complainant's argument that my client is liable for playing loud music until 2 AM is nothing short of devastating.\n\nLet us not forget that the complainant has been aware of these noise levels since day one and has chosen to ignore them. They have had ample opportunity to address this issue through proper channels, yet they have failed to do so. It is cruel to now claim that my client is responsible for their own lack of action.\n\nFurthermore, it is unjust to impose a blanket rule of \"no loud music after 10 PM\" without considering the unique circumstances of each individual. My client's apartment is not a noise-free bubble, and their right to quiet enjoyment should be respected.\n\nI implore this court to see reason and recognize that my client's actions are not a violation of the complainant's rights. The remedy I seek is dismissal of these claims, as they are unfounded and unjust. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 263
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "1. The Respondent's loud music playing until 2 AM every night constitutes a nuisance, as it disrupts my peaceful enjoyment of my own apartment and daily life.\n Because: Fact #1 - I have repeatedly complained to the Respondent about the noise, yet they continue to disregard my concerns.\n\n2. This persistent disturbance is a violation of my right to quiet enjoyment, as guaranteed by our residential agreement.\n Hence: If the Respondent fails to take reasonable measures to minimize the disturbance, then they are liable for the resulting harm.\n\n3. The Respondent's claim that \"their apartment, their rules\" is an invalid defense, as it does not justify disregarding the rights of others in the building.\n Therefore: I seek a stop order, requiring the Respondent to cease playing loud music after 10 PM, thereby respecting my right to quiet enjoyment.\n\n4. Furthermore, the Respondent's failure to address this issue demonstrates a lack of consideration for their neighbors and our shared living environment.\n Hence: If the Respondent does not take immediate action to rectify this situation, then I will be forced to seek further legal remedies.\n\n5. In conclusion, the Respondent is liable for the nuisance caused by their loud music, and I request that the court issue a stop order to prevent future disturbances.\n Because: Data shows that excessive noise can lead to health problems, decreased property values, and strained relationships among neighbors. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 263
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "The complainant's claims are as loud as the music they so vehemently object to - unfair! They demand that I, the Respondent, cease and desist from exercising my right to quiet enjoyment of my own apartment. But let me ask you, is it not equally reasonable for me to expect some measure of peace and quiet in my home?\n\nThe complainant's characterization of my music as a \"nuisance\" is nothing short of an exaggeration. The truth is, my musical tastes are no different from those of countless others who enjoy the same freedoms. Is it not hypocritical to cry foul when I do what they would do if given half the chance? And let us not forget that even the most ardent music lovers have varying tolerance levels - some may find a particular genre too loud, while others revel in its energy.\n\nFurthermore, the complainant's assertion that my failure to address their concerns demonstrates a \"lack of consideration\" for our shared living environment is nothing short of a misrepresentation. The fact remains that I am an equal resident of this building, with an equal right to enjoy it as anyone else. Shouldn't we strive for mutual respect and understanding rather than dictate what others can or cannot do?\n\nIn light of these facts, I respectfully request that the court dismiss this complaint and allow me to continue enjoying my music in peace. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 265
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "1. The Respondent's claim that they have the right to enjoy their own apartment, free from unfair restrictions on their private life, is a flawed argument.\n\nBecause the Respondent's actions are causing a disturbance to the Complainant's quiet enjoyment of their own home, it is reasonable to impose some limitations on those actions.\n\n2. The Respondent's assertion that the Complainant has been aware of these noise levels since day one and has chosen to ignore them is irrelevant.\n\nIf the Respondent had taken steps to address the issue through proper channels, as they claim they have, then perhaps their argument would hold more weight. However, since they have not done so, it is unfair to shift the burden onto the Complainant.\n\n3. The Respondent's statement that \"their apartment is not a noise-free bubble\" is a red herring.\n\nIf the Respondent's actions are causing a disturbance, then it is their responsibility to take steps to mitigate that disturbance. Simply because they cannot guarantee complete silence does not excuse them from taking reasonable measures to minimize the impact on others.\n\n4. The Complainant seeks a remedy of a stop order, requiring the Respondent to cease playing loud music after 10 PM.\n\nThis remedy is justified because it addresses the specific harm caused by the Respondent's actions and provides a clear and enforceable solution. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 253
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "I find it utterly remarkable that my opponent would imply that I should somehow magically absorb the noise complaints from day one without taking any concrete steps to address them. It's a devastating oversight, really - where is the consideration for my own right to quiet enjoyment? Shouldn't we strive for mutual respect and understanding?\n\nTheir claim that I should have taken steps through proper channels is nothing short of a red herring. What's the point of having noise complaint procedures if they're not designed to accommodate the nuances of our shared living environment? It's like saying, \"Hey, just because you can't guarantee complete silence doesn't excuse you from taking unreasonable measures to minimize the impact on others.\" I mean, come on! That's a far cry from what I'm doing - enjoying my music in peace!\n\nFurthermore, isn't it equally reasonable for me to expect some measure of understanding and tolerance from my neighbor? After all, we're not living in isolation; we're co-residents of this building. Shouldn't we strive for a sense of community rather than dictate what others can or cannot do?\n\nIn light of these facts, I urge the court to see things as they truly are: an unreasonable burden being placed on me, without any genuine effort to understand my perspective. It's time to put an end to this noise complaint nonsense and let people live their lives in peace! Therefore, I respectfully request that the court dismiss this complaint and allow me to continue enjoying my music in my own home - a place where I have every right to quiet enjoyment.",
+            "word_count": 266
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "1. The Respondent's argument that their music is no different from others who enjoy similar freedoms is a flawed analogy.\n\nBecause the Respondent's actions are causing a disturbance to the Complainant's quiet enjoyment of their own home, it is reasonable to impose some limitations on those actions.\n\n2. The Respondent's assertion that they have an equal right to enjoy their apartment as anyone else is true, but this does not preclude the need for reasonable accommodations to ensure mutual respect and understanding.\n\nIf the Respondent had taken steps to address the issue through proper channels, as they claim they have, then perhaps their argument would hold more weight. However, since they have not done so, it is unfair to shift the burden onto the Complainant.\n\n3. The Respondent's statement that \"their apartment is not a noise-free bubble\" is irrelevant to the issue at hand.\n\nBecause the Respondent's actions are causing a disturbance, it is their responsibility to take steps to mitigate that disturbance. Simply because they cannot guarantee complete silence does not excuse them from taking reasonable measures to minimize the impact on others.\n\n4. The Complainant seeks a remedy of a stop order, requiring the Respondent to cease playing loud music after 10 PM.\n\nThis remedy is justified because it addresses the specific harm caused by the Respondent's actions and provides a clear and enforceable solution.\n\n5. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.\n\nHence, I respectfully request that the court grant the Complainant's claim and issue a stop order to prevent further disturbances.",
+            "word_count": 264
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 60,
+        "logical_score": 80,
+        "winner": "logical",
+        "reasoning": "The emotional arguments presented by both sides were passionate, but lacked concrete evidence and logical coherence. The logical arguments, on the other hand, provided a clear and well-reasoned case for their respective positions. While the emotional defense did attempt to appeal to the court's sense of fairness and understanding, it ultimately failed to provide a compelling argument that addressed the specific issues at hand.\r\n\r\nThe emotional prosecution, however, presented a strong and logical case that effectively demonstrated the harm caused by the Respondent's actions and proposed a reasonable remedy to address those harms. The prosecution's arguments were well-organized, easy to follow, and provided sufficient evidence to support their claims.\r\n\r\nIn conclusion, while both sides presented passionate arguments, the logical prosecution ultimately prevailed due to its stronger logical coherence, better use of evidence, and more persuasive argumentation.",
+        "criteria_scores": {
+          "relevance": 15,
+          "coherence": 18,
+          "evidence": 17,
+          "persuasiveness": 20,
+          "rebuttal": 10
+        }
+      }
+    }
+  }
+}

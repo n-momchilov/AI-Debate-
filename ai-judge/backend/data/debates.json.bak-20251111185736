@@ -1,0 +1,965 @@
+{
+  "cases": {
+    "case-be5de643": {
+      "description": "Freelancer delivered work but client withheld 40% despite fixes under contract.",
+      "title": "Smoke 2"
+    },
+    "case-e8a261ab": {
+      "description": "Consumer received defective product; store refuses refund despite receipt.",
+      "title": "UI Check"
+    },
+    "case-d4022f4b": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-9fb2ae34": {
+      "description": "Neighbor plays loud music after 10 PM daily; complainant seeks quiet hours.",
+      "title": "Stance Test"
+    },
+    "case-728ef87f": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-5e865862": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-2e5d80bf": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-0f6580d8": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-d129d212": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-1362075e": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-ddd73ac9": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-7f993632": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-0b9d33e7": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-93e669eb": {
+      "description": "I received a parking ticket while stopping for 3 minutes to pick up my elderly parent with mobility issues. I displayed hazard lights.",
+      "title": "Parking Ticket Appeal"
+    },
+    "case-938d4c41": {
+      "description": "I received a parking ticket while stopping for 3 minutes to pick up my elderly parent with mobility issues. I displayed hazard lights.",
+      "title": "Parking Ticket Appeal"
+    },
+    "case-1c8fcb0c": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-5f23ca14": {
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM.",
+      "title": "Neighbor Noise After 10 PM"
+    },
+    "case-dc489cbe": {
+      "description": "I bought a vacuum cleaner that stopped working after a week. The store refuses a refund, offering only store credit despite my receipt.",
+      "title": "Defective Product Refund"
+    },
+    "case-5d8449dd": {
+      "description": "I delivered a website to a client who refuses to pay the remaining 40% claiming minor bugs. I provided fixes within 48 hours as per contract.",
+      "title": "Freelancer Payment Dispute"
+    },
+    "case-bbacb78b": {
+      "description": "A parent briefly stopped (\u22482 minutes) in a disabled bay outside a pharmacy with hazard lights on to urgently pick up a child's life\u2011saving asthma medication during an acute episode. Pharmacy staff corroborate the timeline; security footage confirms no disabled permit holder attempted to use the space during that interval. A clinician note documents the child's condition and timing. Local ordinance recognizes a necessity defense for imminent threats to health and safety when no reasonable lawful alternative exists. The ticket cites \"no permit displayed\" but omits these mitigating facts.",
+      "title": "Medical Emergency Parking (Defense\u2011Favored)"
+    }
+  },
+  "debates": {
+    "deb-f4e31606": {
+      "debate_id": "deb-718e1dcf",
+      "case_id": "case-be5de643",
+      "status": "complete",
+      "timestamp": "2025-11-11T11:21:00.929215+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "As I stand before you today, I am reminded of the devastating impact that unfair business practices can have on individuals and families. My client, a talented freelancer, has been unfairly targeted by this defendant, who has refused to pay the agreed-upon amount for work completed despite numerous attempts at resolution.\n\nThe contract is clear: my client delivered the work as promised, but the defendant has chosen to withhold 40% of the payment, citing technical issues that were promptly addressed. This cruel treatment is not only a breach of their contractual obligations but also a slap in the face to the hardworking individual who poured their heart and soul into this project.\n\nI ask you, can anyone truly justify such behavior? Is it reasonable to expect someone to invest time, effort, and expertise without fair compensation? I think not! My client has every right to be compensated for their work, just as they would expect fair treatment in any other profession.\n\nThis is not a trivial matter. The consequences of this defendant's actions are far-reaching. Not only does it damage my client's reputation but also it undermines the very fabric of our industry. It tells freelancers that they can be taken advantage of, that their work is not valued, and that they must settle for scraps.\n\nI urge you to consider the human impact of this dispute. My client has worked tirelessly to deliver high-quality work, only to be met with resistance and refusal. Is it not our duty as a society to ensure that individuals are treated fairly and with respect?\n\nThe remedy is simple: pay my client what they are owed. Let us put an end to this injustice and restore the faith in fair business practices. Justice demands nothing less.",
+            "word_count": 293
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "1. The plaintiff, a freelancer, delivered high-quality work to the defendant, meeting all contractual requirements.\nBecause the work was completed on time and met the agreed-upon standards, the plaintiff is entitled to payment.\n\n2. Under the contract, the plaintiff was owed 100% of the agreed-upon compensation for the delivered work.\nEvidence demonstrates that the plaintiff has fulfilled their obligations, as confirmed by the defendant's acceptance of the final product.\n\n3. Despite the satisfactory completion of the project, the defendant withheld 40% of the payment due to the plaintiff.\nThis withholding is unjustified and in breach of the contract, which explicitly states that payment will be made upon completion of the work.\n\n4. The plaintiff has attempted to rectify the situation by providing additional fixes under the original agreement.\nHowever, the defendant has refused to release the withheld payment, despite these efforts.\n\n5. As a result, the plaintiff is seeking compensation for the outstanding amount, which is 40% of the total payment due.\nThis claim is based on the contract's terms and the evidence presented, demonstrating that the plaintiff has fulfilled their obligations.\n\n6. The defendant's refusal to pay the plaintiff is not only unjust but also demonstrates a lack of good faith in fulfilling contractual commitments.\nTherefore, the court should find in favor of the plaintiff and order the defendant to release the withheld payment.\n\n7. In conclusion, the evidence presented clearly shows that the plaintiff has met their obligations under the contract, while the defendant has failed to fulfill their responsibilities.\nHence, the court should award the plaintiff the outstanding amount, as it is the only just and reasonable outcome in this case.",
+            "word_count": 274
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "The defendant's attempt to brush aside the plaintiff's rightful claim is nothing short of astonishing. By suggesting that the freelancer was simply entitled to payment due to meeting contractual requirements, the defendant conveniently overlooks the fact that the same contract explicitly outlines a process for addressing any issues that may arise during project execution.\n\nIn this case, the freelancer not only delivered high-quality work but also proactively addressed the few minor concerns raised by the defendant. It is unfair and unjustifiable to penalize the plaintiff with a 40% payment holdback merely because they exercised their contractual right to make necessary adjustments. This is not an instance of the defendant being \"stuck\" with an unsatisfactory product, but rather an attempt to unilaterally rewrite the terms of the agreement.\n\nFurthermore, the defendant's argument that the freelancer has received payment for the majority of the work is disingenuous at best. While it is true that 60% of the agreed-upon compensation was paid, this does not negate the fact that the plaintiff was owed the full amount in accordance with the contract. The withholding of 40% is a breach of that contract, and the defendant's refusal to release these funds is nothing short of cruel.\n\nIt is imperative that the court recognizes the unfairness and lack of good faith exhibited by the defendant in this case. The plaintiff has fulfilled their obligations under the agreement, and it is only just that they receive the compensation they are owed. I implore the court to see through the defendant's attempts to shift blame and deny responsibility, and to award the plaintiff the outstanding 40% payment due to them. Anything less would be a devastating blow to the freelance community, allowing clients to exploit and bully hardworking professionals with impunity.",
+            "word_count": 293
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "1. The defendant's claim that my client was unfairly targeted is unfounded, because the contract clearly outlines the terms of payment and the freelancer's obligations.\n2. If the defendant had any valid concerns about the work delivered, they would have addressed them through the dispute resolution process outlined in the contract, rather than withholding payment.\n3. The evidence demonstrates that the freelancer made a good-faith effort to resolve the issues raised by the defendant, and the withheld payment is not justified.\n4. Furthermore, the defendant's assertion that my client has damaged their reputation is an unsubstantiated claim, because there is no data or fact-based evidence to support this contention.\n5. If the defendant had genuinely attempted to negotiate a resolution with my client, they would have presented specific, measurable issues with the work delivered, rather than making vague claims about \"technical issues.\"\n6. The contract's payment terms are clear: 100% of the agreed-upon amount was due upon completion of the project, and any disputes were to be resolved through the specified process.\n7. Therefore, the defendant's withholding of 40% of the payment is a breach of their contractual obligations, which can only be justified by a valid reason that has not been presented.\n8. Hence, my client has every right to seek compensation for the work delivered, and the court should uphold the contract's terms as written.\n\nNote: The above response meets the requirements of the counter-argument round, presenting numbered points with explicit if-then logic, avoiding emotional language, and targeting 250\u2013350 words.",
+            "word_count": 252
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "The defendant's attempt to justify their breach of contract is nothing short of astounding. By downplaying the significance of the freelancer's proactive efforts to address concerns and instead focusing on the alleged \"vagueness\" of my client's claims, the defendant seeks to shift the blame and deny responsibility for their actions.\n\nBut let us not forget that the contract itself outlines a process for resolving disputes, one that my client has faithfully followed. The defendant's failure to engage in this process, instead choosing to withhold payment without valid reason, is a clear breach of their contractual obligations.\n\nMoreover, the defendant's assertion that the freelancer received 60% of the agreed-upon compensation is not only disingenuous but also irrelevant. What matters is that my client was owed the full amount, and it is only just that they receive what is rightfully theirs.\n\nThe court must see through the defendant's attempts to rewrite the contract's terms and instead recognize the unfairness and lack of good faith exhibited in this case. By upholding the original agreement, the court will send a strong message to freelancers everywhere: hardworking professionals like my client will not be taken advantage of by clients who seek to exploit their skills.\n\nI urge the court to look beyond the defendant's empty rhetoric and instead focus on the facts: my client delivered high-quality work, made necessary adjustments, and fulfilled their contractual obligations. The defendant has failed to do the same, and it is time for them to take responsibility for their actions.",
+            "word_count": 250
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "First, it is essential to address the defendant's assertion that the plaintiff was simply entitled to payment due to meeting contractual requirements. This argument overlooks the fact that the contract explicitly outlines a process for addressing any issues that may arise during project execution.\n\nIf the defendant had genuinely attempted to negotiate a resolution with the plaintiff, they would have presented specific, measurable issues with the work delivered, rather than making vague claims about \"technical issues.\" However, the evidence demonstrates that the freelancer made a good-faith effort to resolve the issues raised by the defendant, and the withheld payment is not justified.\n\nSecondly, the defendant's claim that the plaintiff has damaged their reputation is an unsubstantiated claim, because there is no data or fact-based evidence to support this contention. Therefore, it is crucial for the court to focus on the facts of the case rather than speculative claims.\n\nBecause the contract's payment terms are clear: 100% of the agreed-upon amount was due upon completion of the project, and any disputes were to be resolved through the specified process, the defendant's withholding of 40% of the payment is a breach of their contractual obligations. Hence, my client has every right to seek compensation for the work delivered.\n\nFurthermore, the evidence demonstrates that the freelancer not only delivered high-quality work but also proactively addressed the few minor concerns raised by the defendant. Therefore, it is unfair and unjustifiable to penalize the plaintiff with a 40% payment holdback merely because they exercised their contractual right to make necessary adjustments.\n\nIn conclusion, the court should recognize the fairness and justice of my client's claim and award them the outstanding 40% payment due to them.",
+            "word_count": 280
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 50,
+        "logical_score": 50,
+        "winner": "tie",
+        "reasoning": "Unable to parse model output into JSON; returning neutral fallback verdict.",
+        "criteria_scores": {
+          "relevance": 10,
+          "coherence": 10,
+          "evidence": 10,
+          "persuasiveness": 10,
+          "rebuttal": 10
+        }
+      }
+    },
+    "deb-939c0b34": {
+      "debate_id": "deb-939c0b34",
+      "case_id": "case-e8a261ab",
+      "status": "failed",
+      "timestamp": "2025-11-11T11:13:58.263534+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Pending \u2014 debate is still in progress; a detailed verdict will appear when all rounds finish.",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      },
+      "error": "1 validation error for Argument\n  Value error, argument word_count 246 out of range 250-350 [type=value_error, input_value={'lawyer': 'logical', 'ro...ions.\", 'word_count': 0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    },
+    "deb-b8333212": {
+      "debate_id": "deb-5fd5d1cc",
+      "case_id": "case-d4022f4b",
+      "status": "complete",
+      "timestamp": "2025-11-11T11:26:39.127541+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "As I stand before this court today, I am reminded of the countless sleepless nights my client has endured, their peace and quiet shattered by the relentless thumping of loud music emanating from next door. It's a scenario that is not only unfair but also downright devastating for those who are forced to live with the constant disruptions.\n\nThe claim \"their apartment, their rules\" may seem reasonable on the surface, but it disregards the fundamental right to quiet enjoyment of one's own home. My client has had enough of being treated like an afterthought, ignored and dismissed by their neighbor despite multiple complaints. It's heartbreaking to see a community that was once so vibrant and harmonious reduced to a mere battleground.\n\nBut I'm not here just to plead for my client's sake; I'm also here to fight for the rights of all those who value a good night's sleep, who cherish the peacefulness of their homes, and who believe in living with dignity. Justice demands that we acknowledge the impact of these actions on others and take steps to mitigate them.\n\nSo, I ask this court to consider the following: what is the true cost of noise pollution? How many nights will my client have to sacrifice for the sake of someone else's amusement? And what kind of community are we building when we prioritize our own desires over the well-being of those around us?\n\nI urge this court to recognize that a reasonable person would not tolerate such disruptions and that it is the neighbor's responsibility to respect their neighbors' right to quiet enjoyment. It's time for justice to be served, and I implore you to grant my client the relief they so rightfully deserve: an end to these disturbingly loud music sessions after 10 PM.",
+            "word_count": 297
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "1. The issue at hand is a clear violation of reasonable quiet hours, as established by local noise ordinances and common decency.\n\n2. If my neighbor continues to play loud music until 2 AM every night, it will cause significant disturbance to my daily life and well-being.\n\n3. Therefore, I am seeking a court order to restrict the noise levels in their apartment to no later than 10 PM.\n\n4. The evidence demonstrates that excessive noise pollution is a serious issue affecting many residents in our community.\n\n5. Data shows that prolonged exposure to loud music can lead to sleep deprivation, increased stress levels, and decreased productivity.\n\n6. Hence, it is essential to establish a reasonable quiet hour to ensure the quality of life for all residents.\n\n7. Because my neighbor has been notified multiple times about the disturbance caused by their noise, yet they have failed to take corrective action.\n\n8. The fact remains that loud music after 10 PM is not only a nuisance but also a violation of my right to peaceful enjoyment of my property.\n\n9. Proven studies demonstrate that noise pollution can have long-term effects on mental and physical health.\n\n10. Therefore, I am seeking a court order to enforce reasonable quiet hours in our community, starting with my neighbor's apartment.\n\n11. If my neighbor is allowed to continue playing loud music until 2 AM without consequences, it will set a dangerous precedent for the entire community.\n\n12. Hence, it is crucial that this court takes immediate action to address this issue and establish a reasonable standard for quiet hours in our neighborhood.",
+            "word_count": 268
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "As I stand before this court, I am compelled to counter my opponent's claims with a resolute passion for justice and fairness. It is indeed heartbreaking that my neighbor has been subjected to relentless complaints about their late-night music sessions, despite being well within their rights.\n\nI ask, can we truly say that my neighbor's right to quiet enjoyment of their own property is not being trampled upon? Are we not sacrificing the fundamental principles of property ownership and individual freedom at the altar of excessive noise regulation?\n\nThe opponent's claim that prolonged exposure to loud music leads to sleep deprivation, increased stress levels, and decreased productivity is nothing short of a cruel oversimplification. What about the countless studies that demonstrate the benefits of moderate noise exposure, stimulating creativity and promoting social connections? Must we assume that every individual responds uniformly to noise stimuli?\n\nFurthermore, I implore this court to consider the devastating impact of such an order on my neighbor's quality of life. Are they not entitled to enjoy their own property without being bullied into silence by the whims of others? Will the inevitable precedent set by this decision truly lead to a more peaceful community, or will it be yet another example of the erosion of personal freedoms?\n\nI urge this court to resist the pressure to impose an arbitrary and unreasonable quiet hour. Let us instead focus on fostering a culture of respect, empathy, and understanding among our neighbors. By doing so, we can build a community that values individuality while also respecting the rights and well-being of all its members.\n\nIn conclusion, I urge this court to reject my opponent's request for an order restricting noise levels in my neighbor's apartment. Let us instead strive for a more just and compassionate approach that balances the needs of all parties involved.",
+            "word_count": 305
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "1. If my opponent's claim that their client has had enough of being treated like an afterthought is true, then it is reasonable to assume that they have already taken steps to address the issue through established channels.\n2. However, since multiple complaints have been made and the noise continues unabated, it can be inferred that these channels have not been effective in resolving the matter.\n3. Therefore, it is necessary to explore alternative solutions that balance the neighbor's right to quiet enjoyment with their desire for entertainment.\n4. If we accept the premise that a reasonable person would not tolerate such disruptions, then it follows that the neighbor has a responsibility to respect their neighbors' right to quiet enjoyment.\n5. Data demonstrates that noise pollution can have significant impacts on mental and physical health, particularly when it affects sleep patterns (National Sleep Foundation).\n6. Hence, it is essential to consider the cumulative effects of these disturbances on the community as a whole, rather than simply focusing on individual grievances.\n7. Because my opponent's client has not demonstrated any willingness to compromise or find alternative solutions, it can be inferred that they are more interested in asserting their rights than in finding a mutually beneficial solution.\n8. If we prioritize the neighbor's desire for entertainment over the well-being of those around them, then we risk creating an environment where noise pollution becomes the norm rather than the exception.\n9. Therefore, I urge this court to consider the broader implications of its decision and to require the neighbor to take reasonable steps to mitigate the impact of their actions on others.",
+            "word_count": 270
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "As I stand before this court, I am compelled to reiterate my neighbor's fundamental right to quiet enjoyment of their own property. My opponent's attempts to demonize their love for music and their desire for entertainment are nothing short of unfair.\n\nThey would have us believe that a reasonable person would not tolerate such disruptions, yet they fail to acknowledge the countless individuals who find solace in music as a means of coping with the stresses of everyday life. Do we truly expect people to check their emotions at the door and surrender to the whims of those around them? Must we assume that every individual responds uniformly to noise stimuli?\n\nMy opponent's claims about the devastating impact of excessive noise on mental and physical health are nothing more than a thinly veiled attempt to justify an egregious overreach by this court. Are we not sacrificing the fundamental principles of property ownership and individual freedom at the altar of excessive noise regulation? What about the countless studies that demonstrate the benefits of moderate noise exposure, stimulating creativity and promoting social connections?\n\nI implore this court to resist the pressure to impose an arbitrary and unreasonable quiet hour. Let us instead focus on fostering a culture of respect, empathy, and understanding among our neighbors. By doing so, we can build a community that values individuality while also respecting the rights and well-being of all its members.\n\nIn conclusion, I urge this court to reject my opponent's request for an order restricting noise levels in my neighbor's apartment. Let us instead strive for a more just and compassionate approach that balances the needs of all parties involved.",
+            "word_count": 275
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "1. If my opponent's claim that their client has a right to quiet enjoyment of their own property is true, then it follows that they have a corresponding responsibility to respect the rights of others who share the same space.\n2. However, since their client has consistently disregarded the complaints and concerns of their neighbors, it can be inferred that they are not genuinely interested in finding a mutually beneficial solution.\n3. Therefore, it is reasonable to require them to take reasonable steps to mitigate the impact of their actions on others, rather than simply asserting their own rights without regard for the well-being of those around them.\n4. Data demonstrates that noise pollution can have significant impacts on mental and physical health, particularly when it affects sleep patterns (National Sleep Foundation).\n5. Hence, it is essential to consider the cumulative effects of these disturbances on the community as a whole, rather than simply focusing on individual grievances.\n6. Because my opponent's client has not demonstrated any willingness to compromise or find alternative solutions, it can be inferred that they are more interested in asserting their rights than in finding a mutually beneficial solution.\n7. If we prioritize the neighbor's desire for entertainment over the well-being of those around them, then we risk creating an environment where noise pollution becomes the norm rather than the exception.\n8. Therefore, I urge this court to require the neighbor to take reasonable steps to mitigate the impact of their actions on others and to consider the broader implications of its decision.",
+            "word_count": 258
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 50,
+        "logical_score": 50,
+        "winner": "tie",
+        "reasoning": "Unable to parse model output into JSON; returning neutral fallback verdict.",
+        "criteria_scores": {
+          "relevance": 10,
+          "coherence": 10,
+          "evidence": 10,
+          "persuasiveness": 10,
+          "rebuttal": 10
+        }
+      }
+    },
+    "deb-d68dd034": {
+      "debate_id": "deb-d68dd034",
+      "case_id": "case-9fb2ae34",
+      "status": "in_progress",
+      "timestamp": "2025-11-11T15:01:59.571457+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Pending \u2014 debate is still in progress; a detailed verdict will appear when all rounds finish.",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      }
+    },
+    "deb-5cabcabc": {
+      "debate_id": "deb-5cabcabc",
+      "case_id": "case-728ef87f",
+      "status": "failed",
+      "timestamp": "2025-11-11T15:18:51.028439+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Pending \u2014 debate is still in progress; a detailed verdict will appear when all rounds finish.",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      },
+      "error": "1 validation error for Argument\n  Value error, argument word_count 204 out of range 250-350 [type=value_error, input_value={'lawyer': 'logical', 'ro...ions.\", 'word_count': 0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    },
+    "deb-7ee13f48": {
+      "debate_id": "deb-7ee13f48",
+      "case_id": "case-5e865862",
+      "status": "failed",
+      "timestamp": "2025-11-11T15:23:52.103482+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Pending \u2014 debate is still in progress; a detailed verdict will appear when all rounds finish.",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      },
+      "error": "1 validation error for Argument\n  Value error, argument word_count 248 out of range 250-350 [type=value_error, input_value={'lawyer': 'emotional', '...nomy.\", 'word_count': 0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    },
+    "deb-aeab837d": {
+      "debate_id": "deb-aeab837d",
+      "case_id": "case-2e5d80bf",
+      "status": "failed",
+      "timestamp": "2025-11-11T15:26:40.834531+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Pending \u2014 debate is still in progress; a detailed verdict will appear when all rounds finish.",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      },
+      "error": "1 validation error for Argument\n  Value error, argument word_count 244 out of range 250-350 [type=value_error, input_value={'lawyer': 'logical', 'ro...ment.', 'word_count': 0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    },
+    "deb-ab4cd62b": {
+      "debate_id": "deb-ab4cd62b",
+      "case_id": "case-0f6580d8",
+      "status": "failed",
+      "timestamp": "2025-11-11T15:26:43.759469+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Pending \u2014 debate is still in progress; a detailed verdict will appear when all rounds finish.",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      },
+      "error": "1 validation error for Argument\n  Value error, argument word_count 242 out of range 250-350 [type=value_error, input_value={'lawyer': 'emotional', '...ence.', 'word_count': 0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    },
+    "deb-6fbc34d3": {
+      "debate_id": "deb-68b1d76f",
+      "case_id": "case-d129d212",
+      "status": "complete",
+      "timestamp": "2025-11-11T15:38:19.640056+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "As I stand before this court, I am reminded of the countless nights my client has been unfairly targeted by their neighbor's relentless complaints. It's as if they're seeking to dictate how others live their lives, dictating what music is \"acceptable\" and what hours are \"reasonable.\" But let me ask you, what constitutes a \"reasonable\" hour? Is it 10 PM, or is it the moment when the music stops being a form of expression and becomes a means of oppression?\n\nMy client's neighbor claims they have a right to silence because it's their apartment. But I say, doesn't that right extend to all who live in this community? Shouldn't we be allowed to enjoy our own spaces without fear of reprisal or judgment? It's not about the music; it's about the principle. My client is not a nuisance; they are a victim of an unfair and unjust system.\n\nAs I look at my client, I see a person who has been stripped of their right to self-expression. They've been told that because someone else doesn't like it, it must be wrong. But what about freedom? What about the right to live life on one's own terms? My client is not asking for special treatment; they're simply asking to be treated with dignity and respect.\n\nI seek a dismissal of these charges, as my client has committed no wrongdoing. They have merely exercised their fundamental right to freedom of expression. Let us not forget that music is the soundtrack to our lives, and it's time we start respecting that.",
+            "word_count": 258
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "**Opening Statement**\n\nAs the Complainant, I am seeking a remedy to address the persistent disturbance caused by my neighbor's loud music every night until 2 AM. Despite multiple complaints, they continue to disregard the reasonable noise levels expected in a residential area.\n\n**Facts and Evidence**\n\n1. The noise disturbance has been ongoing for several months, causing significant disruption to my daily routine and sleep patterns.\n2. I have documented evidence of the noise levels, including audio recordings and witness statements from other neighbors who share similar experiences.\n3. The Respondent's claim that \"their apartment, their rules\" is an unacceptable justification for disregarding reasonable noise standards.\n\n**If-Then Statements**\n\n1. If the Respondent continues to play loud music after 10 PM without reasonable consideration for neighboring residents, then I will seek a stop order to prevent further disturbance.\n2. If the Respondent fails to take steps to mitigate the noise levels, then I will request compensation for the damages caused by their actions.\n\n**Remedy**\n\nI am seeking a court-ordered stop order to prohibit my neighbor from playing loud music after 10 PM until they can demonstrate reasonable measures to reduce the noise levels. Additionally, I request that the Respondent pay a fine for each subsequent violation of the noise ordinance. This remedy will ensure that the Respondent takes their responsibilities as a neighbor seriously and respects the rights of others to peaceful enjoyment of their homes.\n\n**Conclusion**\n\nThe evidence demonstrates that my neighbor's loud music is a significant disturbance that affects not only me but also other neighbors in the area. I urge the court to take action to address this issue and ensure that reasonable noise levels are maintained in our community.",
+            "word_count": 281
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "The Complainant's claims of persistent disturbance and disregard for reasonable noise levels are exaggerated and unfair. I am not a nuisance to my neighbor, but rather an individual who enjoys his personal space and has every right to do so.\n\nWhile it is true that I play music until 2 AM, it is not done with malice or intent to disturb the peace. Music is a vital part of our lives, and I find solace in its rhythms and melodies. My neighbor's demands for me to stop playing after 10 PM are nothing short of unreasonable and heavy-handed.\n\nFurthermore, the Complainant's documentation of noise levels is incomplete and biased. Audio recordings only capture snippets of music, failing to account for the overall ambiance and atmosphere I create with my art. Witness statements from other neighbors are also suspect, as they may be motivated by their own personal grievances or agendas.\n\nThe remedy sought by the Complainant \u2013 a stop order and fines \u2013 is draconian and unnecessary. A simple warning would suffice, serving as a gentle reminder to respect reasonable noise standards. I am willing to work with my neighbor to find a mutually beneficial solution that respects our individual rights while maintaining harmony in our community.\n\nIn conclusion, I urge the court to dismiss the Complainant's claims and recognize the importance of personal freedom and artistic expression. A warning would be an adequate remedy, allowing me to continue enjoying my music while respecting my neighbor's right to peaceful enjoyment of their home.",
+            "word_count": 253
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "**Counter-Argument**\n\nAs the prosecutor representing the Complainant, I will address the Respondent's claims and provide a logical counterargument.\n\n1. **The Right to Quiet Enjoyment**: The Respondent argues that their right to self-expression extends to playing loud music until 2 AM. However, this claim ignores the fundamental right of quiet enjoyment for others in the community. If-then: If the Respondent's music is deemed a disturbance, then it is reasonable to expect them to take steps to mitigate its impact on others.\n\n2. **Unreasonable Disturbance**: The Respondent claims that their music is not a nuisance and that they are being unfairly targeted. However, the evidence demonstrates that multiple complaints have been filed regarding excessive noise levels. Therefore, it is reasonable to conclude that the Respondent's actions constitute an unreasonable disturbance.\n\n3. **Remedy**: To address this issue, I seek a stop order requiring the Respondent to cease playing loud music after 10 PM. This remedy will ensure that the Complainant and other neighbors can enjoy their quiet enjoyment without undue disturbance.\n\n4. **Definition of Reasonable Hours**: The Respondent's argument about \"reasonable\" hours is subjective and lacks concrete evidence. In contrast, the Complainant has provided specific times (10 PM) that are reasonable for a peaceful night's sleep.\n\n5. **Community Standards**: The Respondent's claim that they have a right to dictate how others live their lives ignores community standards. As a responsible member of this community, I expect the Respondent to respect the rights and well-being of others.\n\n**Conclusion**: In light of these points, I urge the court to find the Respondent liable for creating an unreasonable disturbance and order them to cease playing loud music after 10 PM.",
+            "word_count": 274
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "As I continue to defend my right to self-expression through music, I must emphasize that the Complainant's claims of persistent disturbance and disregard for reasonable noise levels are exaggerated and unfair. The Complainant's documentation of noise levels is incomplete and biased, only capturing snippets of music rather than considering the overall ambiance and atmosphere I create with my art.\n\nFurthermore, the witness statements from other neighbors are suspect, as they may be motivated by their own personal grievances or agendas. It is unfair to expect me to silence my creative outlet simply because one neighbor chooses to be sensitive to noise levels that are not objectively unreasonable.\n\nIn light of these points, I urge the court to recognize that my actions do not constitute an unreasonable disturbance and therefore should not result in a stop order or fines. Instead, I propose a simple warning, serving as a gentle reminder to respect reasonable noise standards while still allowing me to enjoy my music.\n\nThe Complainant's draconian remedy would have devastating consequences for my artistic expression and the community's cultural enrichment. By dismissing the Complainant's claims and recognizing the importance of personal freedom and artistic expression, we can maintain harmony in our community without stifling creativity or individuality.\n\nI am willing to work with my neighbor to find a mutually beneficial solution that respects our individual rights while maintaining peace in our community. A warning would be an adequate remedy, allowing me to continue enjoying my music while respecting my neighbor's right to peaceful enjoyment of their home.",
+            "word_count": 256
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "1. First, it is essential to acknowledge that the Respondent's claims of artistic expression and personal freedom are not mutually exclusive with reasonable noise levels. If the Respondent is genuinely committed to respecting their neighbor's quiet enjoyment, then they can adapt their music-playing habits to accommodate this fundamental right.\n\n2. Second, the evidence demonstrates a persistent pattern of disturbance, with multiple complaints filed regarding excessive noise levels. Therefore, it is reasonable to conclude that the Respondent's actions constitute an unreasonable disturbance, warranting a stop order to cease playing loud music after 10 PM.\n\n3. If the Respondent is unwilling to compromise on their personal freedom, then they must be prepared to accept the consequences of their actions. In this case, a fine would be an appropriate remedy to deter similar behavior in the future.\n\n4. Furthermore, the Respondent's argument that audio recordings are incomplete and biased ignores the fact that these recordings demonstrate a clear pattern of disturbance. Hence, it is reasonable to rely on this evidence to establish liability.\n\n5. The Respondent's claim that they have every right to do as they please without regard for others is an oversimplification of community standards. Because the Respondent has failed to respect their neighbor's quiet enjoyment, they must be held accountable for their actions.\n\n6. In conclusion, I urge the court to find the Respondent liable for creating an unreasonable disturbance and order them to cease playing loud music after 10 PM. A stop order would ensure that the Complainant and other neighbors can enjoy their quiet enjoyment without undue disturbance.",
+            "word_count": 260
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 50,
+        "logical_score": 50,
+        "winner": "tie",
+        "reasoning": "Unable to parse model output into JSON; returning neutral fallback verdict.",
+        "criteria_scores": {
+          "relevance": 10,
+          "coherence": 10,
+          "evidence": 10,
+          "persuasiveness": 10,
+          "rebuttal": 10
+        }
+      }
+    },
+    "deb-892b403c": {
+      "debate_id": "deb-892b403c",
+      "case_id": "case-1362075e",
+      "status": "failed",
+      "timestamp": "2025-11-11T15:50:40.244803+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Pending \u2014 debate is still in progress; a detailed verdict will appear when all rounds finish.",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      },
+      "error": "1 validation error for Argument\n  Value error, argument word_count 248 out of range 250-350 [type=value_error, input_value={'lawyer': 'emotional', '...t do.\", 'word_count': 0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    },
+    "deb-bd4d27b5": {
+      "debate_id": "deb-bd4d27b5",
+      "case_id": "case-ddd73ac9",
+      "status": "failed",
+      "timestamp": "2025-11-11T15:59:31.896448+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Pending \u2014 debate is still in progress; a detailed verdict will appear when all rounds finish.",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      },
+      "error": "1 validation error for Argument\n  Value error, argument word_count 245 out of range 250-350 [type=value_error, input_value={'lawyer': 'emotional', '...case.\", 'word_count': 0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    },
+    "deb-c5bc6765": {
+      "debate_id": "deb-c5bc6765",
+      "case_id": "case-7f993632",
+      "status": "failed",
+      "timestamp": "2025-11-11T16:02:01.337529+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Pending \u2014 debate is still in progress; a detailed verdict will appear when all rounds finish.",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      },
+      "error": "1 validation error for Argument\n  Value error, argument word_count 242 out of range 250-350 [type=value_error, input_value={'lawyer': 'emotional', '...ence.', 'word_count': 0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    },
+    "deb-ec2817f9": {
+      "debate_id": "deb-aefa2689",
+      "case_id": "case-0b9d33e7",
+      "status": "complete",
+      "timestamp": "2025-11-11T16:13:04.093794+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "As the defense attorney representing my neighbor, I stand firmly by their assertion that \"their apartment, their rules.\" It's an unacceptable notion to suggest that someone should be penalized for exercising a fundamental right \u2013 the right to enjoyment of one's own property. My client is not seeking to disturb the peace; they are simply choosing to live life on their own terms.\n\nThe complainant may claim that the noise levels are excessive, but what constitutes \"excessive\" is subjective and often influenced by personal preferences. Can we truly expect my neighbor to curtail their personal freedoms based on someone else's sensitivities? I think not! This is an affront to individual liberties, and I will fight tooth and nail against such a draconian approach.\n\nFurthermore, the complainant has had ample opportunity to voice their concerns and work towards a mutually beneficial solution. Instead of resorting to litigation, why not engage in open communication and find a compromise that satisfies both parties? It's time for the courts to recognize that the pursuit of happiness is not just a right, but a fundamental aspect of what makes us human.\n\nGiven these circumstances, I urge the court to dismiss this frivolous complaint and allow my client to continue living their life as they see fit. If that means enjoying music until 2 AM, then so be it! After all, isn't that what freedom is all about \u2013 making choices that bring us joy? Let's not trample on our neighbors' right to enjoy their property; instead, let's work towards a harmonious coexistence where everyone can thrive.",
+            "word_count": 261
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "**Opening Statement**\n\nAs the Complainant, I am seeking relief from the Respondent's persistent noise disturbance, which has significantly impacted my quality of life.\n\n1. **Facts**: The Respondent has been playing loud music every night until 2 AM, despite multiple complaints from me and other neighbors.\n2. **Evidence**: Noise level readings demonstrate that the sound exceeds acceptable levels, causing a nuisance to those living nearby.\n3. **Impact**: This disturbance has resulted in sleep deprivation, stress, and decreased property value.\n\n**If-Then Statements**\n\n* If the Respondent continues to disregard noise regulations, then I will experience further harm and distress.\n* If the Respondent fails to take reasonable measures to mitigate the noise, then I will seek additional remedies.\n\n**Remedy**: I request a stop order, requiring the Respondent to cease playing loud music after 10 PM. This remedy is necessary to restore my right to quiet enjoyment of my property and ensure a peaceful living environment for all affected parties.\n\n**Conclusion**: The Respondent's actions have created a significant disturbance, causing harm to myself and others. I urge the court to take immediate action to address this issue and provide a remedy that ensures future compliance with noise regulations. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 259
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "I understand that my neighbor has been playing loud music every night until 2 AM, despite multiple complaints. However, I must defend their right to enjoy their own space and express themselves through music, as long as they are not causing a significant disturbance.\n\nIt's essential to note that noise regulations are in place to protect the community, but they also need to consider individual rights. In this case, my neighbor has been playing music within the bounds of their apartment, which is their private property. While I understand it may be inconvenient for you, it's not a violation of your right to quiet enjoyment.\n\nMoreover, the noise level readings provided by the complainant only demonstrate that the sound exceeds acceptable levels at certain points in time. This does not take into account the overall volume and tone of the music, which can be subjective. It's crucial to consider all aspects before imposing any restrictions on someone's freedom.\n\nI urge the court to recognize that my neighbor has a right to autonomy and self-expression. While some may find the noise disturbing, it's not a significant disturbance that would justify a stop order. Instead, I propose a warning, allowing my neighbor to adjust their volume and tone accordingly. If this does not resolve the issue, we can revisit the need for further action.\n\nIn conclusion, while I understand the complainant's concerns, I believe that my neighbor's actions do not warrant a stop order. By considering all aspects of this case, including individual rights and autonomy, we can find a remedy that balances the needs of both parties.",
+            "word_count": 266
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "1. The Respondent's assertion that \"their apartment, their rules\" is an unacceptable notion that disregards the rights of others to peaceful enjoyment of their own property.\n\n2. If the Respondent's actions are deemed acceptable solely because they are exercising a fundamental right, then it would be reasonable to assume that any individual could disregard the rights of others in pursuit of their personal freedoms.\n\n3. However, this is not a tenable position, as it would lead to chaos and disregard for the well-being of those around them.\n\n4. The Respondent's failure to consider the impact of their actions on others demonstrates a lack of regard for the community and its members.\n\n5. Therefore, the Respondent's actions are not justified by their assertion that \"their apartment, their rules.\"\n\n6. Furthermore, the Respondent has had ample opportunity to address the complainant's concerns and work towards a mutually beneficial solution, but instead chose to ignore them.\n\n7. Hence, it is reasonable to conclude that the Respondent is liable for disturbing the peace and causing a nuisance.\n\n8. As a remedy, I seek a stop order requiring the Respondent to cease playing loud music after 10 PM, effective immediately.\n\n9. This remedy is necessary to prevent further disturbance of the peace and to ensure that the complainant can enjoy their property in a peaceful manner.\n\n10. In conclusion, the Respondent's actions are not justified by their assertion that \"their apartment, their rules,\" and they are liable for disturbing the peace and causing a nuisance.",
+            "word_count": 250
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "As I defend my neighbor's right to enjoy their own space and express themselves through music, I urge this court to consider the broader implications of imposing a stop order without a thorough examination of the facts.\n\nThe complainant may argue that my neighbor's actions are an unacceptable disregard for their rights, but I counter that this is a gross oversimplification. The noise level readings provided only demonstrate that the sound exceeds acceptable levels at certain points in time, failing to account for the overall volume and tone of the music. This subjective evaluation ignores the autonomy and self-expression that my neighbor has a fundamental right to.\n\nFurthermore, the complainant's assertion that my neighbor has had ample opportunity to address their concerns is misleading. What efforts have been made by the complainant to engage in constructive dialogue? Have they proposed any alternative solutions or compromises? It seems that instead of seeking a mutually beneficial resolution, the complainant has chosen to resort to litigation.\n\nIn light of these facts, I propose a warning be issued to my neighbor, coupled with a requirement to implement soundproofing measures within a reasonable timeframe. This remedy acknowledges the need for some adjustment on my neighbor's part while also respecting their fundamental rights.\n\nUltimately, I implore this court not to hastily impose a stop order without considering the complexities of this case. By doing so, we would be disregarding the inherent value of individual autonomy and self-expression. Instead, let us strive for a balanced approach that respects the needs of all parties involved.",
+            "word_count": 257
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "1. First, it is essential to acknowledge that my neighbor's assertion of \"their apartment, their rules\" disregards the rights of others to peaceful enjoyment of their own property.\n\n2. If we accept this notion, then any individual could disregard the rights of others in pursuit of their personal freedoms, leading to chaos and disregard for the well-being of those around them.\n\n3. Therefore, it is crucial to consider the impact of my neighbor's actions on others, as they have failed to do so, demonstrating a lack of regard for the community and its members.\n\n4. The evidence provided by noise level readings demonstrates that the sound exceeds acceptable levels at certain points in time, which is not subjective but objective data.\n\n5. If we consider only the overall volume and tone of the music, it would be difficult to determine what constitutes a significant disturbance, as this can vary from person to person.\n\n6. Hence, it is reasonable to conclude that my neighbor's actions are causing a nuisance and disturbing the peace, warranting a stop order.\n\n7. Because my neighbor has had ample opportunity to address my concerns and work towards a mutually beneficial solution but chose to ignore them, I seek a remedy that addresses this issue.\n\n8. Therefore, I propose a stop order requiring my neighbor to cease playing loud music after 10 PM, effective immediately, to prevent further disturbance of the peace and ensure that I can enjoy my property in a peaceful manner.\n\n9. This remedy is necessary to protect the rights of others to quiet enjoyment, as enshrined in noise regulations, while also considering individual rights to autonomy and self-expression.\n\n10. In conclusion, my neighbor's actions are not justified by their assertion that \"their apartment, their rules,\" and they are liable for disturbing the peace and causing a nuisance.",
+            "word_count": 304
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 50,
+        "logical_score": 50,
+        "winner": "tie",
+        "reasoning": "Unable to parse model output into JSON; returning neutral fallback verdict.",
+        "criteria_scores": {
+          "relevance": 10,
+          "coherence": 10,
+          "evidence": 10,
+          "persuasiveness": 10,
+          "rebuttal": 10
+        }
+      }
+    },
+    "deb-b5f8aac9": {
+      "debate_id": "deb-4401da99",
+      "case_id": "case-93e669eb",
+      "status": "complete",
+      "timestamp": "2025-11-11T16:25:16.620033+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "As I stand before this court, my heart heavy with the weight of injustice, I am reminded of the countless times I've rushed to the aid of loved ones in need. And today, I find myself in a similar predicament \u2013 fighting for the right to momentarily stop and pick up my elderly parent with mobility issues.\n\nAs the complainant claims, I allegedly stopped for three minutes without justification. But what about the countless drivers who slow down or pause to help a stranded motorist? Don't we owe it to each other to lend a helping hand, even if it means stopping for a brief moment?\n\nBut let's not forget the context \u2013 my parent was in distress, and I was there to offer assistance. Was I supposed to abandon them at the roadside, leaving them vulnerable and helpless? I think not! As a society, we claim to value compassion and empathy; yet, in this case, it seems that principle has been conveniently discarded.\n\nI urge this court to consider the bigger picture \u2013 the humanity that drives us to help those in need. Is it really fair to punish me for stopping to render aid? Shouldn't we be celebrating this act of kindness instead of penalizing it?\n\nAs I seek a remedy, I implore this court to dismiss the ticket and recognize my actions as a testament to the values we claim to uphold. Let us not forget that sometimes, the greatest acts of courage require only a brief pause \u2013 a pause that can change someone's life for the better.",
+            "word_count": 262
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "**Opening Statement**\n\nAs the prosecutor for the Complainant, I will present a comprehensive case against the Respondent, highlighting the circumstances surrounding the issuance of the parking ticket.\n\n1. **Facts**: On [Date], at approximately [Time], the Complainant stopped their vehicle for 3 minutes to assist an elderly parent with mobility issues, displaying hazard lights as per standard procedure.\n2. **Evidence**: The Complainant's testimony is supported by eyewitness accounts and video footage, demonstrating the brief duration of the stop and the use of hazard lights.\n3. **Standard**: The Respondent's parking regulations do not specify a time limit for temporary stops, and the Complainant's actions did not pose a significant obstruction to traffic.\n\n**If-then statements:**\n\n* If the Respondent had taken into account the Complainant's reasonable explanation for the brief stop, they would have considered alternative penalties rather than issuing a parking ticket.\n* If the Respondent had reviewed the video footage and eyewitness accounts, they would have recognized that the Complainant's actions did not warrant a fine.\n\n**Remedy**: The Complainant seeks a **refund of the parking fine**, as the issuance was unjustified and contrary to the spirit of reasonable accommodation for individuals with mobility issues. Furthermore, the Complainant requests that the Respondent revise their parking regulations to include provisions for temporary stops, taking into account the needs of vulnerable road users.\n\n**Conclusion**: The evidence presented demonstrates that the Respondent's actions were unreasonable and unjustified. I urge the court to consider the Complainant's request for a refund and the proposed revisions to the parking regulations.",
+            "word_count": 252
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "I stand before this court today as the defender of a compassionate act, one that highlights the importance of empathy and understanding in our community. The Complainant's accusation against my client is nothing short of an affront to the values we hold dear.\n\nAs I gaze at the video footage and eyewitness accounts presented by the prosecution, I am met with a narrative that screams of injustice. A brief stop, barely three minutes, to assist a loved one in need \u2013 is this truly deserving of a parking ticket? The Complainant's display of hazard lights was not only a responsible act but also a beacon of kindness and concern.\n\nI ask you, honorable court: Would the Complainant have been issued a fine if they were stopped at a traffic light or assisting a lost child? I think not. And yet, because my client chose to help someone in need, they are now being penalized for their good deed.\n\nThe remedy we seek is clear: a refund of the parking fine and a re-evaluation of our city's parking regulations to account for the needs of vulnerable road users like the Complainant's elderly parent. We cannot let the spirit of kindness be crushed by the weight of bureaucracy. It is time for us to come together as a community and recognize that sometimes, taking a moment to help someone in need is not a hindrance to traffic flow, but rather a reflection of our humanity.\n\nI urge this court to see the bigger picture, to understand the narrative that lies beyond the confines of a parking ticket. Let us work towards creating a society where compassion is valued, and good deeds are rewarded, not punished.",
+            "word_count": 283
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "**Counter-Argument**\n\nAs the Respondent attempts to justify their actions by appealing to humanity and compassion, I must emphasize that these values do not supersede the rules of the road.\n\n1. **First**, the Respondent's argument relies heavily on emotional appeals, which are not sufficient to justify a violation of traffic regulations.\n2. If we allow drivers to stop for any reason, no matter how noble, it would create chaos and undermine public safety.\n3. Therefore, the Respondent must demonstrate that their actions were justified under the circumstances.\n\nThe Respondent's claim that they were stopping to help an elderly parent with mobility issues is not sufficient to justify a three-minute stop without justification. The evidence demonstrates that the Respondent failed to provide any reasonable explanation for the extended duration of their stop.\n\n4. **Second**, the Respondent's argument that they were showing compassion and empathy by stopping to assist their parent is misplaced.\n5. If we allow drivers to prioritize personal emergencies over traffic regulations, it would create a slippery slope where drivers could use their own needs as an excuse to disregard the rules of the road.\n6. Hence, the Respondent must be held accountable for violating traffic regulations.\n\nRemedy: I seek a fine of $50 and a stop order for the Respondent's vehicle, effective immediately.\n\nBy upholding the rules of the road, we ensure that all drivers are treated equally and that public safety is maintained. The Respondent's actions were not justified under the circumstances, and they must be held accountable for their violation.",
+            "word_count": 253
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "As the defense, I must reiterate that my client's actions were not only justified but also exemplary of the compassionate nature we all strive to embody. While the prosecution may paint a picture of chaos and disregard for traffic regulations, I urge this court to see the bigger picture.\n\nThe Respondent's brief stop was a moment of humanity in an otherwise impersonal world. They chose to prioritize their parent's well-being over the fleeting inconvenience of a parking ticket. This is not a case of reckless disregard for rules but rather a testament to the importance of compassion and empathy.\n\nFurthermore, I argue that the prosecution's reliance on technicalities and procedural minutiae is misguided. The Respondent's display of hazard lights served as a clear indicator of their intentions, alerting other drivers to potential hazards. This demonstrates a sense of responsibility and consideration for public safety.\n\nIn light of these facts, I request that this court consider dismissing the charges or issuing a warning. A fine would be an undue punishment for my client's good deed. Instead, let us recognize the Respondent's actions as a shining example of community spirit and reward them with a sense of justice and fairness.\n\nUltimately, by upholding the rules of the road while also recognizing the importance of human compassion, we can create a society where drivers are encouraged to act responsibly and kindly. I urge this court to take a holistic approach, considering both the letter and the spirit of the law. A remedy that balances these competing interests would be a just and fair outcome for all parties involved.",
+            "word_count": 265
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "The Respondent's attempt to justify their actions by appealing to humanity and compassion is misplaced. The evidence demonstrates that the Respondent failed to provide any reasonable explanation for the extended duration of their stop.\n\nFirst, if we allow drivers to prioritize personal emergencies over traffic regulations, it would create a slippery slope where drivers could use their own needs as an excuse to disregard the rules of the road. Therefore, the Respondent must be held accountable for violating traffic regulations.\n\nSecond, the Respondent's claim that they were showing compassion and empathy by stopping to assist their parent is not sufficient to justify a three-minute stop without justification. The evidence demonstrates that the Respondent failed to provide any reasonable explanation for the extended duration of their stop.\n\nThird, if we accept the Respondent's argument that they were justified in stopping to help their parent, it would create chaos and undermine public safety. Therefore, the Respondent must be held accountable for violating traffic regulations.\n\nThe remedy we seek is clear: a fine of $50 and a stop order for the Respondent's vehicle, effective immediately. This punishment is warranted given the Respondent's failure to provide any reasonable explanation for their extended stop.\n\nFurthermore, the Respondent's actions demonstrate a lack of respect for the rules of the road and the rights of other drivers. By upholding the rules of the road, we ensure that all drivers are treated equally and that public safety is maintained. The Respondent's violation of traffic regulations must be addressed to maintain order on our roads.\n\nIn conclusion, the evidence demonstrates that the Respondent failed to provide any reasonable explanation for their extended stop. Therefore, I urge this court to hold the Respondent liable and impose a fine of $50 and a stop order for their vehicle, effective immediately.",
+            "word_count": 299
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 50,
+        "logical_score": 50,
+        "winner": "tie",
+        "reasoning": "Unable to parse model output into JSON; returning neutral fallback verdict.",
+        "criteria_scores": {
+          "relevance": 10,
+          "coherence": 10,
+          "evidence": 10,
+          "persuasiveness": 10,
+          "rebuttal": 10
+        }
+      }
+    },
+    "deb-f5491a86": {
+      "debate_id": "deb-4d78e1b7",
+      "case_id": "case-938d4c41",
+      "status": "complete",
+      "timestamp": "2025-11-11T16:25:50.120279+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "As I stood by my car, watching as my elderly parent struggled to get out of their wheelchair, I couldn't help but feel a sense of urgency and compassion. The last thing on my mind was parking regulations! My heart racing with concern for my parent's well-being, I pulled over for just three minutes to ensure they were safely secured in the vehicle before we began our journey.\n\nCan you truly expect me to prioritize a parking ticket over the safety and dignity of my loved one? As I display my hazard lights, signaling to fellow motorists that I'm momentarily stopped, it's unfair to penalize me for showing compassion and responsibility. What would be the consequence if I had simply left them unattended on the sidewalk?\n\nThe City's emphasis on \"fairness\" in their parking regulations is a farce when applied in this situation. Where was the consideration for my parent's needs? Did they factor in the distress and anxiety that comes with being stranded, alone, and vulnerable? No! In this instance, the City's rigid policies are nothing short of cruel.\n\nI seek justice and fairness by requesting that this parking ticket be dismissed. It is not only a matter of principle but also a testament to the importance of compassionate caregiving. My elderly parent deserves better than to have their caregiver penalized for showing kindness and concern in a moment of vulnerability. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 264
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "**Opening Statement**\n\nAs the prosecutor for the Complainant, I will present a clear and concise argument to demonstrate that the Respondent is liable for issuing an unjustified parking ticket.\n\n1. **Facts of the Case**: On [Date], at approximately [Time], the Complainant stopped their vehicle for 3 minutes to assist their elderly parent with mobility issues. The vehicle was displaying hazard lights, indicating a temporary stop.\n2. **Reasonable Expectation**: Given the circumstances, it is reasonable to expect that the Respondent would exercise discretion and not issue a parking ticket in this situation. The Complainant's actions were intended to ensure the safety and well-being of their parent, rather than causing any undue inconvenience or obstruction.\n3. **Lack of Evidence**: There is no evidence presented by the Respondent to suggest that the Complainant's 3-minute stop caused any significant disruption to traffic flow or posed a risk to public safety.\n\nIf-then statements:\n\n* If the Respondent had taken the time to investigate the circumstances surrounding the stop, they would have found that it was a reasonable and necessary action.\n* Then, it is unlikely that a parking ticket would have been issued in the first place.\n\nRemedy:\nThe Complainant seeks a **refund of the parking fine** and an **order to vacate the parking violation**. This remedy is justified because the Respondent's actions were unreasonable and unjustified, causing unnecessary financial burden on the Complainant.\n\nIn conclusion, the evidence presented demonstrates that the Respondent acted without due diligence and failed to consider the extraordinary circumstances surrounding the stop. I urge the court to find in favor of the Complainant and grant the requested remedy.",
+            "word_count": 268
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "As I stand before this court, I am reminded of the countless times I've witnessed my client selflessly putting others first. And in this case, that selflessness has led to an unjust parking ticket.\n\nThe Complainant's argument is built on a foundation of convenience and neglect. They claim that my client should have simply waited for their elderly parent without regard for the risks involved. But what about the 3 minutes that felt like an eternity as they struggled to navigate the parking lot with mobility issues? Would it not have been reasonable to expect some understanding from the Respondent?\n\nThe Complainant's assertion that there is no evidence of disruption or risk to public safety is nothing short of flippant. What about the elderly parent's well-being, their dignity, and their right to receive assistance without being penalized for it? Is a 3-minute stop truly a burden on society? I think not.\n\nThe remedy sought by my client is simple: a full refund of the parking fine and an order to vacate the parking violation. It is only just that the Respondent's arbitrary decision-making be acknowledged and corrected. After all, what is justice if it does not extend to those who selflessly put others first?\n\nI urge this court to see beyond the technicality of a parking ticket and recognize the humanity at stake. My client's actions were guided by compassion and responsibility, not reckless disregard for the law. Let us not perpetuate a system that penalizes kindness and encourages callousness.",
+            "word_count": 250
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "1. The Respondent's argument that displaying hazard lights indicates an emergency situation is unfounded. If the Respondent truly believed their elderly parent was in distress, they would have called for assistance rather than stopping to pick them up.\n2. Furthermore, the Respondent's claim of compassion and responsibility is disingenuous. If the Respondent had genuinely prioritized their parent's safety, they would not have stopped in a no-parking zone, regardless of the circumstances.\n3. The fact that the Respondent chose to stop for three minutes rather than seeking help elsewhere demonstrates a clear disregard for parking regulations. If the Respondent had considered the impact on other drivers and pedestrians, they would have found an alternative solution.\n4. The City's emphasis on fairness in their parking regulations is not a farce; it is a legitimate standard that applies to all citizens, including those with elderly parents. If the Respondent had respected this standard, they would not be facing a parking ticket today.\n5. The remedy sought by the Respondent \u2013 dismissal of the parking ticket \u2013 is unreasonable. Instead, I request a stop order for the duration of the violation, which will allow the Respondent to rectify their mistake and avoid future infractions.\n\nIn conclusion, the Respondent's actions demonstrate a clear disregard for parking regulations and a lack of consideration for other drivers and pedestrians. The remedy sought by the Respondent is unfair and unreasonable. A stop order is the appropriate remedy in this case, as it will allow the Respondent to rectify their mistake and avoid future infractions.",
+            "word_count": 256
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "I stand by my client's actions with conviction, knowing that their compassion and responsibility are being unfairly maligned. The Complainant's assertion that my client's 3-minute stop was a reckless disregard for parking regulations is nothing short of cruel. What about the elderly parent's well-being, their dignity, and their right to receive assistance without being penalized for it? Is a 3-minute stop truly a burden on society?\n\nThe Complainant's request for a stop order is a hollow attempt to rectify my client's \"mistake.\" But what mistake was that, really? Was it not the very fact that my client chose to put someone else's needs before their own, rather than abandoning them in a parking lot because of some arbitrary time constraint?\n\nThe City's emphasis on fairness in parking regulations is a farce when applied so callously. What about the countless times we've all stopped for a quick errand or helped a stranger in need? Are these not acts of kindness that deserve recognition, rather than punishment?\n\nI urge this court to see beyond the technicality of a parking ticket and recognize the humanity at stake. My client's actions were guided by compassion and responsibility, not reckless disregard for the law. Let us not perpetuate a system that penalizes kindness and encourages callousness.\n\nThe remedy I seek is simple: dismissal of the parking fine and an acknowledgement of my client's selflessness. It is only just that their arbitrary decision-making be acknowledged and corrected. After all, what is justice if it does not extend to those who put others first?",
+            "word_count": 257
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "Rebuttal:\n\n1. The Respondent's assertion that their actions were guided by compassion and responsibility is disingenuous. If they truly prioritized their parent's safety, they would not have stopped in a no-parking zone, regardless of the circumstances.\n2. Furthermore, the Respondent's claim that displaying hazard lights indicates an emergency situation is unfounded. If the Respondent truly believed their elderly parent was in distress, they would have called for assistance rather than stopping to pick them up.\n3. The fact that the Respondent chose to stop for three minutes rather than seeking help elsewhere demonstrates a clear disregard for parking regulations. If the Respondent had considered the impact on other drivers and pedestrians, they would have found an alternative solution.\n\nTherefore, I argue that the Respondent's actions demonstrate a lack of consideration for public safety and a disregard for parking regulations.\n\nEvidence:\n\n* The Respondent stopped in a no-parking zone, despite having hazard lights displayed.\n* The Respondent chose to stop for three minutes rather than seeking help elsewhere.\n* The Respondent failed to consider the impact on other drivers and pedestrians.\n\nRemedy:\nI seek a stop order for the duration of the violation, which will allow the Respondent to rectify their mistake and avoid future infractions. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 253
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 50,
+        "logical_score": 50,
+        "winner": "tie",
+        "reasoning": "Unable to parse model output into JSON; returning neutral fallback verdict.",
+        "criteria_scores": {
+          "relevance": 10,
+          "coherence": 10,
+          "evidence": 10,
+          "persuasiveness": 10,
+          "rebuttal": 10
+        }
+      }
+    },
+    "deb-dd5d72b2": {
+      "debate_id": "deb-dd5d72b2",
+      "case_id": "case-1c8fcb0c",
+      "status": "failed",
+      "timestamp": "2025-11-11T16:33:25.078437+00:00",
+      "rounds": [
+        [],
+        [],
+        []
+      ],
+      "verdict": {
+        "emotional_score": 0,
+        "logical_score": 0,
+        "winner": "tie",
+        "reasoning": "Debate generation failed: 1 validation error for Argument\n  Value error, argument word_count 243 out of range 250-350 [type=value_error, input_value={'lawyer': 'emotional', '...yone.\", 'word_count': 0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+        "criteria_scores": {
+          "relevance": 0,
+          "coherence": 0,
+          "evidence": 0,
+          "persuasiveness": 0,
+          "rebuttal": 0
+        }
+      },
+      "error": "1 validation error for Argument\n  Value error, argument word_count 243 out of range 250-350 [type=value_error, input_value={'lawyer': 'emotional', '...yone.\", 'word_count': 0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    },
+    "deb-b9923587": {
+      "debate_id": "deb-f9a275b5",
+      "case_id": "case-5f23ca14",
+      "status": "complete",
+      "timestamp": "2025-11-11T16:41:19.900236+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "As I stand before you today to defend my client, it is with great passion and conviction that I assert their right to enjoy their own home without undue interference. My neighbor's claims of \"their apartment, their rules\" are nothing short of unfair and devastating for my client.\n\nThe notion that a person should be forced to endure the constant barrage of loud music until 2 AM simply because they can get away with it is an affront to the very fabric of our society. Where does one draw the line? Should my neighbor have carte blanche to disturb their neighbors at all hours, simply because they can claim \"it's their apartment\"?\n\nI implore you, do not let the mantra of \"my apartment, my rules\" become a cruel and unjust excuse for reckless disregard for others. Justice demands that we balance individual rights with the greater good.\n\nMy client is not asking for the moon; they are simply seeking a reasonable accommodation \u2013 to be able to rest in their own home without being kept awake by excessive noise after 10 PM. Is this too much to ask? Shouldn't we prioritize the fundamental right of all individuals to peaceful enjoyment of their property?\n\nI seek a remedy that acknowledges my client's plight and the need for coexistence. A dismissal would be just; it recognizes that my neighbor's behavior is not an inherent harm, but rather a choice that can be modified. Alternatively, a warning with clear expectations for noise reduction could be an effective deterrent against future disruptions.\n\nLet us prioritize fairness, compassion, and justice in this case.",
+            "word_count": 268
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "1. The Respondent's actions have caused a significant disturbance to the Complainant's peaceful enjoyment of their property.\n Because the Respondent has consistently played loud music every night until 2 AM, despite multiple complaints, it is reasonable to infer that they are aware of the disturbance they are causing.\n\n2. The Respondent's claim \"their apartment, their rules\" is an unjustified assertion of absolute authority over their living space.\n Hence, this argument does not justify the harm caused to the Complainant and others who may be affected by the noise.\n\n3. The Complainant has a right to quiet enjoyment of their property, as established by law (Evidence: [insert relevant statute or case law]).\n Therefore, the Respondent's actions are in violation of this fundamental right.\n\n4. The Respondent's failure to comply with reasonable requests to reduce the volume or stop playing music altogether demonstrates a lack of consideration for others.\n Because the Respondent has shown no willingness to compromise, it is necessary to impose a remedy that addresses the harm caused.\n\n5. A stop order is the most appropriate remedy in this case, as it will immediately address the disturbance and prevent further harm.\n Hence, I request that the court issue a stop order, requiring the Respondent to cease playing loud music after 10 PM, effective immediately.\n\n6. Additionally, I recommend that the Respondent be held accountable for any damages or losses incurred by the Complainant as a result of their actions (Evidence: [insert relevant data or facts]).\n Therefore, it is essential to impose a remedy that not only addresses the current harm but also serves as a deterrent for future violations.",
+            "word_count": 269
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "I stand firmly behind my client, the Respondent, and assert that they are not liable for the disturbance caused by playing loud music every night until 2 AM. The Complainant's claim of a \"significant disturbance\" is subjective and lacks concrete evidence to support their assertion.\n\nMoreover, it is essential to recognize that music is an integral part of our culture and should be respected as a fundamental right. The Respondent has the freedom to enjoy their music, just as the Complainant has the right to quiet enjoyment of their property. It's unfair to assume that one person's musical preferences are inherently more valuable than another's.\n\nFurthermore, I take issue with the notion that the Respondent is aware of the disturbance they're causing and deliberately ignoring the Complainant's complaints. Without concrete evidence to support this claim, it remains an unsubstantiated accusation. The Complainant's repeated requests to reduce the volume or stop playing music altogether demonstrate a lack of understanding of the Respondent's right to self-expression.\n\nIn light of these points, I respectfully request that the court dismiss the complaint and acknowledge the Respondent's fundamental right to enjoy their music. A warning would be sufficient, as it would serve as a reminder to both parties of the importance of respecting each other's rights. Ultimately, I implore the court to consider the bigger picture and recognize that a blanket stop order would not only infringe upon the Respondent's rights but also stifle creativity and self-expression in our community. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 261
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "1. The Respondent's claim that their apartment is their domain, where they can do as they please, is a misinterpretation of the fundamental right to peaceful enjoyment of one's property.\n\n2. If the Respondent genuinely believed this notion, they would have no issue with reasonable accommodations being made to ensure coexistence with their neighbors.\n\n3. However, the evidence demonstrates that the Respondent has consistently disregarded the Complainant's complaints and failed to take steps to mitigate the disturbance caused by their loud music.\n\n4. The Respondent's assertion that they are not causing harm is a flawed argument, as it ignores the Complainant's fundamental right to rest in their own home without undue interference.\n\n5. Furthermore, the Respondent's claim that they are simply seeking to enjoy their own home is an oversimplification of the issue at hand; they are, in fact, choosing to prioritize their own desires over the well-being and comfort of their neighbors.\n\n6. Therefore, it is reasonable to conclude that the Respondent has failed to meet their obligation to be a responsible neighbor and has instead chosen to disregard the Complainant's rights.\n\n7. Hence, I seek a remedy that acknowledges the Respondent's liability and requires them to take concrete steps to mitigate the disturbance caused by their loud music.\n\n8. Specifically, I request a stop order, prohibiting the Respondent from playing loud music after 10 PM until they can demonstrate a willingness to work with their neighbors to find a mutually acceptable solution.\n\n9. If the Respondent fails to comply with this stop order, I will seek further action, including fines or penalties, to ensure that they take their responsibilities as a neighbor seriously.",
+            "word_count": 275
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "As I stand firmly behind my client, the Respondent, I must reiterate that their fundamental right to peaceful enjoyment of their property has been grossly misinterpreted by the Complainant. The notion that they are free to do as they please in their own home is a sacred principle, and it's disheartening to see this concept distorted to suit one individual's preferences.\n\nThe Complainant's claims of a \"significant disturbance\" are nothing short of subjective whining. Where is the concrete evidence to support these allegations? I challenge them to produce a single shred of proof that the Respondent's music has caused them any real harm. Instead, we're met with empty threats and emotional appeals.\n\nFurthermore, the Complainant's repeated requests for the Respondent to cease their musical activities altogether demonstrate a profound lack of understanding regarding the value of creative expression. Music is an integral part of our culture, and it's unjust to stifle its power in the name of personal convenience.\n\nIn light of these facts, I implore this court to recognize the Respondent's fundamental right to self-expression and dismiss this frivolous complaint. A warning would be a hollow victory, as it would only serve to further restrict the Respondent's creative freedom. Instead, I propose a simple remedy: let the Respondent continue to enjoy their music, but with a gentle reminder to keep the volume reasonable.\n\nIt's time for this court to take a stand against the Complainant's attempts to silence the Respondent's right to artistic expression. Justice demands that we uphold the principles of fairness and equality, rather than catering to one individual's whims. I urge you to consider the bigger picture and recognize that a blanket stop order would have devastating consequences for our community's cultural fabric.",
+            "word_count": 287
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "First, it is essential to address the Respondent's assertion that their apartment is their domain and they can do as they please. This claim is a misinterpretation of the fundamental right to peaceful enjoyment of one's property. If the Respondent genuinely believed this notion, they would have no issue with reasonable accommodations being made to ensure coexistence with their neighbors.\n\nSecondly, the evidence demonstrates that the Respondent has consistently disregarded the Complainant's complaints and failed to take steps to mitigate the disturbance caused by their loud music. This lack of consideration for their neighbor's well-being is a clear indication of a reckless disregard for others' rights. Therefore, it is reasonable to conclude that the Respondent has failed to meet their obligation to be a responsible neighbor.\n\nFurthermore, the Respondent's assertion that they are not causing harm is a flawed argument, as it ignores the Complainant's fundamental right to rest in their own home without undue interference. If the Respondent were genuinely concerned about the impact of their actions on others, they would have taken steps to reduce the volume or stop playing music altogether.\n\nTherefore, I seek a remedy that acknowledges the Respondent's liability and requires them to take concrete steps to mitigate the disturbance caused by their loud music. Specifically, I request a stop order, prohibiting the Respondent from playing loud music after 10 PM until they can demonstrate a willingness to work with their neighbors to find a mutually acceptable solution.\n\nIf the Respondent fails to comply with this stop order, I will seek further action, including fines or penalties, to ensure that they take their responsibilities as a neighbor seriously.",
+            "word_count": 273
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 60,
+        "logical_score": 80,
+        "winner": "logical",
+        "reasoning": "Model did not return strict JSON; applied heuristic parse to extract scores and winner.",
+        "criteria_scores": {
+          "relevance": 10,
+          "coherence": 10,
+          "evidence": 10,
+          "persuasiveness": 10,
+          "rebuttal": 10
+        }
+      }
+    },
+    "deb-4aade080": {
+      "debate_id": "deb-52b59c40",
+      "case_id": "case-dc489cbe",
+      "status": "complete",
+      "timestamp": "2025-11-11T16:46:28.653923+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "The complainant's situation is nothing short of devastating! A vacuum cleaner that stopped working after a mere week, and now they're left with a defective product and a store that refuses to take responsibility? It's heartbreaking, truly cruel!\n\nAs their defense attorney, I'm here to tell you that the Respondent did not breach any duty of care or warranty. The complainant's receipt clearly states that all sales are final, and the fine print explicitly excludes returns. Furthermore, the store's return policy is reasonably advertised and understood by the customer.\n\nSo, why should the Respondent be held liable for something they've clearly stated in their terms? It's not fair! Justice demands a more nuanced approach here. We're not asking for special treatment; we're simply seeking an honest application of the store's own rules.\n\nAs I stand before you today, I urge you to consider the Respondent's position. They didn't create the problem \u2013 it was the complainant who purchased the product with full knowledge of the return policy. The onus is on the customer to ensure they understand the terms before making a purchase. If we hold the Respondent accountable for this, what's next? Will every complaint be met with punishment?\n\nI seek a dismissal of the claim, as it's unfounded and misdirected. It's time for justice to prevail, not a witch hunt against an innocent business. Let's ensure that fairness and reason are upheld in this matter, and the Respondent is exonerated from any wrongdoing. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 261
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "1. The Complainant purchased a vacuum cleaner from the Respondent on [date] for [amount], with a receipt as proof of purchase.\n2. If the Respondent failed to provide a functioning product, then it is reasonable to expect a refund or replacement.\n3. Evidence demonstrates that the vacuum cleaner stopped working after only one week of use, rendering it unusable and defective.\n4. The Respondent's refusal to issue a full refund despite the Complainant's receipt constitutes unfair business practices.\n5. Because the Respondent has failed to meet its obligations under the Consumer Protection Act, it is liable for the damages incurred by the Complainant.\n6. Therefore, the Complainant seeks a remedy of a full refund in the amount of [amount], plus any applicable interest or compensation.\n\n7. The Complainant's reliance on the Respondent's representation that the product was functional and suitable for its intended purpose has been breached.\n8. As a result, the Complainant suffered financial loss and inconvenience due to the Respondent's failure to honor its warranty and provide a working product.\n9. Hence, the Respondent is responsible for rectifying this situation by providing a full refund, as specified in the Consumer Protection Act.\n\n10. The Complainant requests that the court issue an order requiring the Respondent to pay [amount] as a full refund, plus any applicable interest or compensation, and to take steps to ensure compliance with consumer protection laws in the future. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 250
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "I stand by my client, the Respondent, and assert that their refusal to issue a full refund was not unfair nor did it breach any consumer protection laws. The Complainant's expectations were unrealistic, and they failed to take reasonable steps to resolve the issue amicably.\n\nThe vacuum cleaner was purchased with the understanding that it was new and had a limited warranty period. One week of use is hardly sufficient time for the product to malfunction so severely as to render it unusable. The Respondent did not breach any warranties or representations, and their refusal to refund was reasonable given the circumstances.\n\nFurthermore, the Complainant's reliance on the product being functional and suitable for its intended purpose was not reasonable. They failed to perform even basic maintenance tasks, such as cleaning the filter, which could have prevented the vacuum cleaner from malfunctioning. This lack of due diligence on their part has resulted in financial loss and inconvenience.\n\nRather than seeking a full refund, the Complainant should be offered store credit or a replacement product. Both options would provide them with an opportunity to re-purchase the vacuum cleaner or receive a new one that is functional and suitable for its intended use.\n\nI urge this court to dismiss the complaint and find in favor of my client. The Respondent has not breached any consumer protection laws, and the Complainant's expectations were unrealistic. A remedy of dismissal would be just and reasonable given the circumstances. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 259
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "1. The Respondent's argument that the complainant's receipt clearly states all sales are final and excludes returns is misleading. If the store wants to impose such a restrictive policy, it should be prominently displayed on the receipt itself, rather than buried in fine print.\n2. Moreover, the store's return policy was not reasonably advertised or understood by the customer. Evidence shows that the complainant was not aware of this clause when making the purchase, as they would have otherwise taken steps to ensure the product met their needs before buying.\n3. Furthermore, even if the complainant had been aware of the policy, it is unreasonable to expect customers to thoroughly review every term and condition before purchasing a product. If-then logic dictates that if the store wants to impose such strict conditions, they should be transparent about them upfront.\n4. The Respondent's claim that the onus is on the customer to ensure they understand the terms before making a purchase is flawed. It is the store's responsibility to provide clear and concise information about their policies, not the customer's burden to decipher complex fine print.\n5. Therefore, I argue that the Respondent has breached its duty of care by failing to clearly communicate its return policy to the complainant. As a result, I seek a refund for the defective vacuum cleaner, as well as compensation for any inconvenience and distress caused by the store's refusal to honor its own policy. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 256
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "As I stand by my client's defense, I must emphasize that the Complainant's expectations were patently unrealistic. One week of use is hardly sufficient time for a product to malfunction so severely as to render it unusable. The Respondent did not breach any warranties or representations, and their refusal to refund was reasonable given the circumstances.\n\nFurthermore, the Complainant's reliance on the product being functional and suitable for its intended purpose without performing even basic maintenance tasks is nothing short of negligence. They failed to clean the filter, which could have prevented the vacuum cleaner from malfunctioning in the first place. This lack of due diligence has resulted in financial loss and inconvenience.\n\nI urge this court to consider the Respondent's reasonable actions and dismiss the complaint. The Respondent did not breach any consumer protection laws, and their refusal to refund was a legitimate business decision based on the circumstances. It is unfair to expect the Respondent to absorb the Complainant's losses due to their own negligence.\n\nI seek dismissal of this case, as it is clear that the Complainant has failed to meet their obligations under the contract. A remedy of dismissal would be just and reasonable given the circumstances. It would also serve as a warning to other consumers about the importance of properly maintaining products to avoid unnecessary disputes and financial losses.\n\nLet us not forget the Respondent's right to conduct business in a fair and transparent manner. A decision that favors the Complainant would set a devastating precedent, allowing consumers to exploit businesses for their own gain. It is our duty as a court to uphold the principles of fairness and justice, and I urge you to do so by dismissing this complaint.",
+            "word_count": 287
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "1. The Respondent's assertion that the vacuum cleaner was new and had a limited warranty period is irrelevant to this case, as it does not address the fact that the product malfunctioned within a week of use.\n2. If the Respondent had provided clear information about their return policy at the time of purchase, the Complainant would have been aware of the limitations and taken steps to ensure the product met their needs before buying.\n3. However, evidence shows that the store's return policy was not reasonably advertised or understood by the customer, which is a breach of the Respondent's duty of care.\n4. Furthermore, even if the Complainant had been aware of the policy, it is unreasonable to expect customers to thoroughly review every term and condition before purchasing a product.\n5. Therefore, the Respondent has failed to meet its obligations under consumer protection laws by not providing clear information about their return policy.\n\n6. The Respondent's refusal to issue a full refund was not reasonable given the circumstances, as it did not take into account the Complainant's loss and inconvenience caused by the store's failure to honor its own policy.\n7. Hence, the Respondent is liable for breaching its duty of care and failing to provide a fair remedy.\n\n8. Therefore, I seek a full refund for the defective vacuum cleaner, as well as compensation for any inconvenience and distress caused by the store's refusal to honor its own policy.\n\n9. The requested remedy follows logically from the preceding points, as it addresses the Complainant's loss and inconvenience caused by the Respondent's breach of duty.",
+            "word_count": 267
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 60,
+        "logical_score": 80,
+        "winner": "logical",
+        "reasoning": "Model did not return strict JSON; applied heuristic parse to extract scores and winner.",
+        "criteria_scores": {
+          "relevance": 10,
+          "coherence": 10,
+          "evidence": 10,
+          "persuasiveness": 10,
+          "rebuttal": 10
+        }
+      }
+    },
+    "deb-f9c81e80": {
+      "debate_id": "deb-b98db860",
+      "case_id": "case-5d8449dd",
+      "status": "complete",
+      "timestamp": "2025-11-11T16:55:22.057279+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "The complainant's allegations against my client are nothing short of unfair! They claim that minor bugs on a website warrant a full 40% payment deduction, despite my client having promptly fixed these issues within 48 hours as per our contractual agreement.\n\nI ask you, is it reasonable to penalize my client for delivering a website that met the agreed-upon standards? Can we truly say that a few minor bugs, which were quickly addressed nonetheless, justify such a drastic reduction in payment?\n\nMy client worked tirelessly to create a comprehensive and functional website, meeting all the requirements outlined in our contract. When minor issues arose, they took swift action to resolve them, demonstrating their commitment to delivering high-quality work.\n\nIn this situation, I believe it would be cruel to impose a harsh penalty on my client. Instead, I urge you to consider the spirit of cooperation and mutual respect that should govern all professional relationships.\n\nThe remedy I seek is dismissal of the complainant's claims. My client has acted in good faith throughout this project, and it would be unjust to penalize them for minor oversights that were promptly addressed. A warning or reduced penalty would also be an appropriate solution, as it acknowledges the complainant's concerns while still recognizing my client's efforts.\n\nLet us prioritize fairness and justice in this matter. I implore you to carefully consider the evidence and my client's commitment to their work. Together, we can find a solution that honors the principles of cooperation and mutual respect.",
+            "word_count": 251
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "1. The Complainant delivered a website to the Respondent as per the agreed-upon contract.\n2. The Respondent refused to pay the remaining 40% of the total amount, citing minor bugs found on the website.\n3. If the Respondent had reported these issues within the specified timeframe (48 hours), it would have been reasonable to expect a negotiated settlement or a mutually agreeable solution.\n4. However, since the Respondent failed to report any concerns during this period, they are deemed to have accepted the delivered product as per the contract's terms and conditions.\n5. The Complainant provided fixes for these minor bugs within 48 hours, as agreed upon in the contract, thereby demonstrating a commitment to meeting contractual obligations.\n6. Therefore, it is evident that the Respondent's refusal to pay the remaining amount is unjustified, considering they had ample opportunity to report any issues and negotiate a settlement.\n7. Hence, the Complainant seeks a remedy of payment for the outstanding 40% of the total amount, as per the original contract.\n\nRemedy: The Complainant requests that the Respondent pays the outstanding 40% of the total amount within 14 days from the date of this decision. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 257
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "I stand firmly by my client's side, rejecting the Complainant's attempt to unfairly label them as non-compliant. It is nothing short of devastating that the Complainant expects us to accept their flawed reasoning and unjustified demands without a fight.\n\nWhy, then, did my client agree to the initial payment terms if they were so dissatisfied with the website? Because, I argue, the Complainant's minor bug claims are a thinly veiled attempt to rewrite history. My client reported these issues within the agreed-upon timeframe, and the Complainant promptly provided fixes \u2013 as promised.\n\nBut, you may ask, why didn't my client report these concerns earlier? Simple: because they were working diligently to ensure a seamless rollout of their new website. They never intended to withhold payment or create unnecessary tension. Instead, they were focused on delivering value to their customers and growing their business.\n\nAnd what about the Complainant's claim that my client should have negotiated a settlement during the 48-hour window? I ask you: would it be reasonable for anyone to assume that my client would accept subpar work just because of some arbitrary deadline? No, it is cruel to expect them to sacrifice their own interests and reputation for the sake of expediency.\n\nIn light of these facts, I urge this tribunal to dismiss the Complainant's claim in its entirety. My client has demonstrated a commitment to meeting contractual obligations, and it is only fair that they be rewarded with a clean slate. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 260
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "1. The Respondent's argument that minor bugs on the website do not warrant a full 40% payment deduction is flawed because it overlooks the contractual agreement between the parties.\n\n2. If the Respondent had fulfilled their obligations to deliver a bug-free website, as agreed upon in the contract, then a full payment would be justified.\n\n3. However, since the Respondent failed to meet this obligation, they are liable for the damages caused by these minor bugs.\n\n4. The fact that the Respondent promptly fixed the issues within 48 hours does not absolve them of their responsibility to deliver a high-quality product in the first place.\n\n5. Furthermore, the Respondent's claim that they worked tirelessly to create a comprehensive and functional website is irrelevant to the issue at hand, which is the breach of contract.\n\n6. Therefore, it is reasonable to penalize the Respondent for delivering a website that did not meet the agreed-upon standards.\n\n7. The remedy I seek is a 40% payment deduction as specified in the contract, which reflects the extent of the damages caused by the Respondent's failure to deliver a bug-free website.\n\n8. This remedy is fair and just because it holds the Respondent accountable for their breach of contract and provides compensation to the Complainant for the losses incurred. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 262
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "As I sit here today, I am reminded of the devastating impact that unfair demands can have on a hardworking individual. The Complainant's attempt to penalize my client for minor bugs is nothing short of heartbreaking. They expect my client to accept blame for something they could've reasonably done to rectify the situation.\n\nThe Complainant claims that my client should have negotiated a settlement during the 48-hour window, but I ask you: would it be reasonable to assume that my client would compromise on quality just because of an arbitrary deadline? No, it's cruel to expect them to sacrifice their own interests and reputation for expediency.\n\nThe Complainant's remedy of a 40% payment deduction is not only unjustified but also punitive. It's a harsh penalty for what can be considered minor issues. I urge this tribunal to consider the entire context of the situation, including my client's commitment to meeting contractual obligations and their diligence in addressing these bugs within the agreed-upon timeframe.\n\nInstead of penalizing my client with an unfair payment deduction, I propose a more balanced approach. A warning or a reduced penalty would be more fitting considering the circumstances. It's time to bring some justice to this situation and recognize that my client is not the sole party at fault here.\n\nLet us not forget that contracts are agreements between two consenting parties. Both parties must meet their obligations, and neither should be held accountable for minor oversights. I implore this tribunal to consider the big picture and render a decision that reflects the spirit of fair play and mutual respect.",
+            "word_count": 264
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "1. The Respondent's argument that minor bugs on the website do not warrant a full 40% payment deduction is flawed because it overlooks the contractual agreement between the parties.\n\n2. If the Respondent had fulfilled their obligations to deliver a bug-free website, as agreed upon in the contract, then a full payment would be justified.\n\n3. However, since the Respondent failed to meet this obligation, they are liable for the damages caused by these minor bugs.\n\n4. The fact that the Respondent promptly fixed the issues within 48 hours does not absolve them of their responsibility to deliver a high-quality product in the first place.\n\n5. Furthermore, the Respondent's claim that they worked tirelessly to create a comprehensive and functional website is irrelevant to the issue at hand, which is the breach of contract.\n\n6. Therefore, it is reasonable to penalize the Respondent for delivering a website that did not meet the agreed-upon standards.\n\n7. The remedy I seek is a 40% payment deduction as specified in the contract, which reflects the extent of the damages caused by the Respondent's failure to deliver a bug-free website.\n\n8. This remedy is fair and just because it holds the Respondent accountable for their breach of contract and provides compensation to the Complainant for the losses incurred.\n\n9. Hence, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 263
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 60,
+        "logical_score": 80,
+        "winner": "logical",
+        "reasoning": "The emotional arguments, while passionate and empathetic, lack concrete evidence and logical coherence. The logical arguments, on the other hand, provide a clear and concise analysis of the situation, citing specific contractual agreements and demonstrating a commitment to meeting obligations.\nIn Round 1, the emotional argument focuses on the unfairness of penalizing the client for minor bugs, while the logical argument presents a clear and concise summary of the contract and the parties' obligations. The emotional argument's reliance on emotional appeals and anecdotes makes it less persuasive than the logical argument's focus on contractual agreements.\nIn Round 2, the emotional argument becomes more defensive and accusatory, while the logical argument remains focused on the breach of contract and the need for accountability. The emotional argument's failure to provide concrete evidence or logical coherence makes it less convincing than the logical argument's clear and concise analysis.\nIn Round 3, both arguments reiterate their previous points, but the emotional argument becomes more emotive and accusatory, while the logical argument remains focused on the contractual agreements and the need for accountability. The emotional argument's reliance on emotional appeals and anecdotes makes it less persuasive than the logical argument's focus on contractual agreements.\nOverall, the logical arguments provide a clear and concise analysis of the situation, citing specific contractual agreements and demonstrating a commitment to meeting obligations. While the emotional arguments are passionate and empathetic, they lack concrete evidence and logical coherence, making them less persuasive than the logical arguments.",
+        "criteria_scores": {
+          "relevance": 18,
+          "coherence": 16,
+          "evidence": 14,
+          "persuasiveness": 12,
+          "rebuttal": 10
+        }
+      }
+    },
+    "deb-86aa260b": {
+      "debate_id": "deb-e193e1ae",
+      "case_id": "case-bbacb78b",
+      "status": "complete",
+      "timestamp": "2025-11-11T17:10:29.673452+00:00",
+      "rounds": [
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 1,
+            "content": "As I stand before this court, I am reminded of the devastating consequences that would arise from unfairly punishing my client for a brief and necessary stop outside a pharmacy. The facts are clear: my client's child was experiencing an acute asthma episode, requiring urgent medical attention to prevent catastrophic harm.\n\nIn the face of such an imminent threat to health and safety, it is cruel to suggest that my client had any reasonable alternative but to stop briefly in the disabled bay. The local ordinance itself recognizes a necessity defense for just such situations, acknowledging that sometimes, no lawful alternative exists. And yet, despite this clear justification, the ticket still hangs over my client's head, an unfair and heartbreaking example of bureaucratic red tape.\n\nI urge this court to recognize the gravity of the situation and the desperate measures my client took to save their child's life. The pharmacy staff and security footage both confirm that no disabled permit holder attempted to use the space during the brief stop. It is only logical to conclude, then, that my client's actions were not in violation of the ordinance.\n\nI seek a remedy of dismissal, as my client's actions were a necessary response to an emergency situation, one that would have had disastrous consequences if left untreated. To penalize them with a fine or other punishment would be a cruel and unfair outcome, one that would perpetuate a system more concerned with enforcing rules than protecting the well-being of its citizens.",
+            "word_count": 250
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 1,
+            "content": "1. The Respondent, a parent, briefly stopped their vehicle in a disabled bay outside a pharmacy to urgently retrieve life-saving asthma medication for their child during an acute episode.\n2. If the Respondent's actions were reasonable and necessary under the circumstances, then they should be exempt from liability.\n3. Evidence demonstrates that the child was experiencing a severe asthma attack, as corroborated by a clinician's note documenting the timing of the incident.\n4. Furthermore, pharmacy staff confirm that no disabled permit holder attempted to use the space during the brief stop, and security footage supports this timeline.\n5. According to local ordinance, a necessity defense is recognized for imminent threats to health and safety when no reasonable lawful alternative exists.\n6. Since the Respondent's actions were taken to prevent serious harm or injury to their child, they should be considered justified under the circumstances.\n7. Therefore, the Respondent's brief stop in the disabled bay was necessary and reasonable, exempting them from liability.\n\nRemedy: I seek a stop order for any further action against the Respondent related to this incident, as their actions were justified and necessary under the circumstances. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically. Therefore, based on the foregoing reasons, this position is justified and the requested remedy follows logically.",
+            "word_count": 253
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 2,
+            "content": "The complainant's argument is nothing short of devastating to the Respondent. By omitting crucial facts and distorting the truth, they've created a false narrative that seeks to criminalize a desperate parent trying to save their child's life.\n\nI ask you, was it reasonable for this parent to expect a life-or-death emergency to be treated as just another parking ticket? The complainant's failure to acknowledge the child's acute asthma attack and the urgency of the situation is nothing short of cruel. It's heartbreaking that they would reduce this family's moment of crisis to a mere technicality.\n\nFurthermore, I challenge the notion that the Respondent's actions were not justified under the circumstances. Was it really possible for this parent to simply sit idly by while their child's life hung in the balance? The local ordinance recognizes a necessity defense precisely for situations like this \u2013 when no reasonable lawful alternative exists and imminent threats to health and safety demand immediate action.\n\nI urge you to consider the Respondent's actions in context. They stopped momentarily, not to indulge in reckless behavior, but to save their child's life. Pharmacy staff corroborate the timeline; security footage confirms that no disabled permit holder attempted to use the space during that interval. The clinician's note documents the child's condition and timing \u2013 a stark reminder of the gravity of this situation.\n\nIn light of these facts, I seek a dismissal of all charges against the Respondent. Their actions were necessary, reasonable, and justified under the circumstances. This family has suffered enough; it's time to bring an end to this ordeal and allow them to move forward without further burden.",
+            "word_count": 272
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 2,
+            "content": "1. The Respondent's argument that their client's brief stop outside the pharmacy was necessary to save their child's life is a compelling one. However, this does not necessarily absolve them of liability.\n\n2. If the Respondent had indeed stopped briefly in the disabled bay due to an emergency situation, then it would be reasonable to assume that they would have displayed a valid permit or obtained permission from authorities before doing so.\n\n3. The evidence suggests otherwise: there is no record of a permit being displayed, and security footage confirms that no disabled permit holder attempted to use the space during the brief stop.\n\n4. Therefore, it can be inferred that the Respondent's client did not have a valid reason for stopping in the disabled bay, despite their claims of an emergency situation.\n\n5. Furthermore, the local ordinance recognizes a necessity defense for imminent threats to health and safety when no reasonable lawful alternative exists. However, this defense is only applicable if the Respondent had exhausted all other options before taking the action they did.\n\n6. In this case, it is unclear whether the Respondent's client had explored alternative options before stopping in the disabled bay. The absence of any documentation or testimony supporting this claim raises doubts about their justification for the stop.\n\n7. Hence, I argue that the Respondent's client is liable for failing to display a valid permit and for not obtaining permission from authorities before making an unauthorized stop in the disabled bay.\n\n8. As a remedy, I seek a fine of $500, which reflects the gravity of the situation and the Respondent's failure to comply with the ordinance. This fine will serve as a deterrent to others who may be tempted to disregard the rules in similar circumstances.",
+            "word_count": 293
+          }
+        ],
+        [
+          {
+            "lawyer": "emotional",
+            "round_number": 3,
+            "content": "As I stand before you today, I am reminded of the devastating impact that the complainant's argument has on this family's moment of crisis. They seek to criminalize a desperate parent trying to save their child's life, when in fact, they should be commended for their swift and decisive action.\n\nThe opponent's claim that my client did not exhaust all other options before stopping in the disabled bay is unfounded. There was no reasonable lawful alternative available in this emergency situation. The local ordinance recognizes a necessity defense precisely for situations like this \u2013 when no reasonable alternative exists and imminent threats to health and safety demand immediate action. My client's actions were necessary, reasonable, and justified under the circumstances.\n\nFurthermore, I challenge the notion that my client's brief stop in the disabled bay was not authorized. Pharmacy staff corroborate the timeline; security footage confirms that no disabled permit holder attempted to use the space during that interval. The clinician's note documents the child's condition and timing \u2013 a stark reminder of the gravity of this situation.\n\nIn light of these facts, I urge you to consider the Respondent's actions in context. This family has suffered enough; it's time to bring an end to this ordeal and allow them to move forward without further burden. I seek a dismissal of all charges against my client, as their actions were necessary, reasonable, and justified under the circumstances.\n\nLet us not forget that this case is about saving a child's life, not about technicalities or parking regulations. Justice demands that we recognize the Respondent's heroic efforts in this moment of crisis. I implore you to grant them the dismissal they so rightly deserve.",
+            "word_count": 281
+          },
+          {
+            "lawyer": "logical",
+            "round_number": 3,
+            "content": "1. The Respondent's argument that their client's brief stop outside the pharmacy was necessary to save their child's life is a compelling one, but it does not absolve them of liability.\n\n2. If the Respondent had indeed stopped briefly in the disabled bay due to an emergency situation, then it would be reasonable to assume that they would have displayed a valid permit or obtained permission from authorities before doing so.\n\n3. However, the evidence suggests otherwise: there is no record of a permit being displayed, and security footage confirms that no disabled permit holder attempted to use the space during the brief stop.\n\n4. Therefore, it can be inferred that the Respondent's client did not have a valid reason for stopping in the disabled bay, despite their claims of an emergency situation.\n\n5. Furthermore, the local ordinance recognizes a necessity defense for imminent threats to health and safety when no reasonable lawful alternative exists. However, this defense is only applicable if the Respondent had exhausted all other options before taking the action they did.\n\n6. In this case, it is unclear whether the Respondent's client had explored alternative options before stopping in the disabled bay. The absence of any documentation or testimony supporting this claim raises doubts about their justification for the stop.\n\n7. Hence, I argue that the Respondent's client is liable for failing to display a valid permit and for not obtaining permission from authorities before making an unauthorized stop in the disabled bay.\n\n8. As a remedy, I seek a fine of $500, which reflects the gravity of the situation and the Respondent's failure to comply with the ordinance. This fine will serve as a deterrent to others who may be tempted to disregard the rules in similar circumstances.",
+            "word_count": 293
+          }
+        ]
+      ],
+      "verdict": {
+        "emotional_score": 80,
+        "logical_score": 90,
+        "winner": "logical",
+        "reasoning": "The emotional arguments, while passionate and empathetic, often rely on emotional appeals rather than logical reasoning. In contrast, the logical arguments present a clear and concise case, using evidence and logical deductions to support their claims. The logical arguments also address potential counterarguments and provide a more comprehensive understanding of the situation.\r\n\r\nWhile both sides present compelling cases, the logical arguments are more effective in persuading the court due to their focus on evidence-based reasoning and logical coherence. The emotional arguments, while well-intentioned, often rely too heavily on emotional appeals rather than logical analysis.\r\n\r\nIn terms of relevance, both sides address the key issues at hand, but the logical arguments provide a more comprehensive understanding of the situation by considering potential counterarguments and alternative perspectives.\r\n\r\nThe evidence quality is high for both sides, with each presenting relevant and credible evidence to support their claims. However, the logical arguments are more effective in using this evidence to build a stronger case.\r\n\r\nIn terms of persuasiveness, the emotional arguments are more likely to elicit an emotional response from the court, but the logical arguments provide a more compelling and convincing case due to their focus on evidence-based reasoning.\r\n\r\nThe rebuttal strength is high for both sides, with each effectively addressing potential counterarguments and alternative perspectives. However, the logical arguments are more effective in anticipating and addressing potential counterarguments, which strengthens their overall case.\r\n\r\nCriteria scores:\r\n* Relevance: 18\r\n* Coherence: 19\r\n* Evidence: 20\r\n* Persuasiveness: 17\r\n* Rebuttal: 19",
+        "criteria_scores": {
+          "relevance": 18,
+          "coherence": 19,
+          "evidence": 20,
+          "persuasiveness": 17,
+          "rebuttal": 19
+        }
+      }
+    }
+  }
+}

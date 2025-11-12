@@ -1,0 +1,169 @@
+{
+  "model": "llama3:8b",
+  "runs": {
+    "emotional": {
+      "metrics": [
+        {
+          "prompt_words": 40,
+          "response_words": 331,
+          "duration_sec": 38.40262460708618,
+          "approx_tokens": 440,
+          "tokens_per_sec": 11.457550219596442,
+          "vram_mb_peak": 3557,
+          "temperature": 0.9,
+          "model": "llama3:8b",
+          "eval_count": 376,
+          "prompt_eval_count": 58
+        },
+        {
+          "prompt_words": 40,
+          "response_words": 325,
+          "duration_sec": 34.153343200683594,
+          "approx_tokens": 432,
+          "tokens_per_sec": 12.648834916733813,
+          "vram_mb_peak": 3557,
+          "temperature": 0.9,
+          "model": "llama3:8b",
+          "eval_count": 369,
+          "prompt_eval_count": 58
+        },
+        {
+          "prompt_words": 40,
+          "response_words": 350,
+          "duration_sec": 39.97239327430725,
+          "approx_tokens": 465,
+          "tokens_per_sec": 11.633028745839056,
+          "vram_mb_peak": 3557,
+          "temperature": 0.9,
+          "model": "llama3:8b",
+          "eval_count": 402,
+          "prompt_eval_count": 58
+        },
+        {
+          "prompt_words": 40,
+          "response_words": 357,
+          "duration_sec": 41.67282581329346,
+          "approx_tokens": 474,
+          "tokens_per_sec": 11.37431865368717,
+          "vram_mb_peak": 3557,
+          "temperature": 0.9,
+          "model": "llama3:8b",
+          "eval_count": 408,
+          "prompt_eval_count": 58
+        },
+        {
+          "prompt_words": 40,
+          "response_words": 323,
+          "duration_sec": 34.58277678489685,
+          "approx_tokens": 429,
+          "tokens_per_sec": 12.405018910666389,
+          "vram_mb_peak": 3557,
+          "temperature": 0.9,
+          "model": "llama3:8b",
+          "eval_count": 371,
+          "prompt_eval_count": 58
+        }
+      ],
+      "avg_tokens_per_sec": 11.903750289304574,
+      "min_tokens_per_sec": 11.37431865368717,
+      "max_tokens_per_sec": 12.648834916733813,
+      "avg_quality": 5.0
+    },
+    "logical": {
+      "metrics": [
+        {
+          "prompt_words": 33,
+          "response_words": 272,
+          "duration_sec": 36.11845684051514,
+          "approx_tokens": 361,
+          "tokens_per_sec": 9.994889914428892,
+          "vram_mb_peak": 3557,
+          "temperature": 0.3,
+          "model": "llama3:8b",
+          "eval_count": 351,
+          "prompt_eval_count": 50
+        },
+        {
+          "prompt_words": 33,
+          "response_words": 331,
+          "duration_sec": 39.67434501647949,
+          "approx_tokens": 440,
+          "tokens_per_sec": 11.090290206863848,
+          "vram_mb_peak": 3557,
+          "temperature": 0.3,
+          "model": "llama3:8b",
+          "eval_count": 419,
+          "prompt_eval_count": 50
+        },
+        {
+          "prompt_words": 33,
+          "response_words": 332,
+          "duration_sec": 37.289117097854614,
+          "approx_tokens": 441,
+          "tokens_per_sec": 11.82650688249662,
+          "vram_mb_peak": 3557,
+          "temperature": 0.3,
+          "model": "llama3:8b",
+          "eval_count": 398,
+          "prompt_eval_count": 50
+        },
+        {
+          "prompt_words": 33,
+          "response_words": 358,
+          "duration_sec": 44.2658166885376,
+          "approx_tokens": 476,
+          "tokens_per_sec": 10.753218524109094,
+          "vram_mb_peak": 3557,
+          "temperature": 0.3,
+          "model": "llama3:8b",
+          "eval_count": 473,
+          "prompt_eval_count": 50
+        },
+        {
+          "prompt_words": 33,
+          "response_words": 287,
+          "duration_sec": 33.80689334869385,
+          "approx_tokens": 381,
+          "tokens_per_sec": 11.269890908645712,
+          "vram_mb_peak": 3557,
+          "temperature": 0.3,
+          "model": "llama3:8b",
+          "eval_count": 357,
+          "prompt_eval_count": 50
+        }
+      ],
+      "avg_tokens_per_sec": 10.986959287308833,
+      "min_tokens_per_sec": 9.994889914428892,
+      "max_tokens_per_sec": 11.82650688249662,
+      "avg_quality": 4.8
+    },
+    "judge": {
+      "metrics": {
+        "prompt_words": 68,
+        "response_words": 170,
+        "duration_sec": 17.94379186630249,
+        "approx_tokens": 226,
+        "tokens_per_sec": 12.594885277532464,
+        "vram_mb_peak": 3557,
+        "temperature": 0.0,
+        "model": "llama3:8b",
+        "eval_count": 208,
+        "prompt_eval_count": 101
+      },
+      "quality": 3
+    }
+  },
+  "temperature_effects": {
+    "emotional_prompt": {
+      "jaccard_difference": 0.7023809523809523,
+      "note": "Higher is more different. Expect noticeable difference (> 0.35)."
+    }
+  },
+  "timestamp": "2025-11-11 18:24:40",
+  "criteria": {
+    "speed_tokens_per_sec_ge_15": false,
+    "quality_ge_3": true,
+    "vram_under_7_5_gb": true,
+    "temperature_effects_notable": true
+  }
+}

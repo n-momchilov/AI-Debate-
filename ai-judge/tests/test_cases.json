@@ -1,0 +1,28 @@
+{
+  "cases": [
+    {
+      "title": "Neighbor Noise After 10 PM",
+      "description": "My neighbor plays loud music every night until 2 AM despite multiple complaints. They claim 'their apartment, their rules.' I want them to stop after 10 PM."
+    },
+    {
+      "title": "Freelancer Payment Dispute",
+      "description": "I delivered a website to a client who refuses to pay the remaining 40% claiming minor bugs. I provided fixes within 48 hours as per contract."
+    },
+    {
+      "title": "Defective Product Refund",
+      "description": "I bought a vacuum cleaner that stopped working after a week. The store refuses a refund, offering only store credit despite my receipt."
+    },
+    {
+      "title": "Parking Ticket Appeal",
+      "description": "I received a parking ticket while stopping for 3 minutes to pick up my elderly parent with mobility issues. I displayed hazard lights."
+    },
+    {
+      "title": "Shared Facility Cleaning",
+      "description": "The shared laundry room is often left dirty by a specific neighbor. The strata rules require users to clean up after use, but they ignore warnings."
+    },
+    {
+      "title": "Medical Emergency Parking (Defense-Favored)",
+      "description": "A parent briefly stopped (~2 minutes) in a disabled bay outside a pharmacy with hazard lights on to urgently pick up a child's life-saving asthma medication during an acute episode. Pharmacy staff corroborate the timeline; security footage confirms no disabled permit holder attempted to use the space during that interval. A clinician note documents the child's condition and timing. Local ordinance recognizes a necessity defense for imminent threats to health and safety when no reasonable lawful alternative exists. The ticket cites 'no permit displayed' but omits these mitigating facts."
+    }
+  ]
+}

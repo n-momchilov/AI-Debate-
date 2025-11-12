@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "debates": [
+    {
+      "title": "Neighbor Noise After 10 PM",
+      "times_sec": {
+        "round1": 53.22,
+        "round2": 52.41,
+        "round3": 61.64,
+        "judge": 59.85,
+        "total": 227.13
+      },
+      "word_counts": {
+        "r1": [
+          252,
+          263
+        ],
+        "r2": [
+          266,
+          260
+        ],
+        "r3": [
+          295,
+          265
+        ]
+      },
+      "verdict": {
+        "emotional_score": 60,
+        "logical_score": 80,
+        "winner": "logical"
+      }
+    },
+    {
+      "title": "Freelancer Payment Dispute",
+      "times_sec": {
+        "round1": 41.56,
+        "round2": 60.54,
+        "round3": 61.44,
+        "judge": 66.7,
+        "total": 230.24
+      },
+      "word_counts": {
+        "r1": [
+          255,
+          263
+        ],
+        "r2": [
+          270,
+          264
+        ],
+        "r3": [
+          250,
+          297
+        ]
+      },
+      "verdict": {
+        "emotional_score": 60,
+        "logical_score": 80,
+        "winner": "logical"
+      }
+    }
+  ],
+  "timestamp": "2025-11-11 18:52:57"
+}

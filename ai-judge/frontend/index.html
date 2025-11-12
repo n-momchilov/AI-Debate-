@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="AI Judge - Multi-agent legal debate platform (Emotional vs Logical + Judge)." />
+    <title>AI Judge - Legal Debate Arena</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 id="app-title">AI Judge - Legal Debate Arena</h1>
+        <p class="subtitle">Local, 3-round debates with an impartial AI judge</p>
+      </div>
+    </header>
+
+    <main class="container">
+      <!-- Section 1: Case Input -->
+      <section class="panel" aria-labelledby="case-input-title">
+        <h2 id="case-input-title">Case Input</h2>
+        <form id="case-form" class="case-form" onsubmit="return false;" novalidate>
+          <div class="form-row">
+            <label for="case-title">Case Title</label>
+            <input id="case-title" name="title" type="text" maxlength="100" placeholder="e.g., Neighbor Noise After 10 PM" required />
+          </div>
+          <div class="form-row">
+            <label for="case-description">Case Description</label>
+            <textarea id="case-description" name="description" rows="10" placeholder="Describe the dispute (no hard limit; longer text may increase generation time)" aria-describedby="case-help case-counter" required></textarea>
+            <small id="case-help">Tier 1 disputes only: neighbor noise, small contracts, consumer rights, minor traffic/public.</small>
+            <small id="case-counter" class="counter" aria-live="polite">Words: 0 | Characters: 0</small>
+          </div>
+          <div class="form-row">
+            <label for="example-case-select">Load Example Case</label>
+            <select id="example-case-select" name="example">
+              <option value="" selected>— Choose an example —</option>
+              <option value="0">Neighbor Noise After 10 PM</option>
+              <option value="1">Freelancer Payment Dispute</option>
+              <option value="2">Defective Product Refund</option>
+              <option value="3">Parking Ticket Appeal</option>
+              <option value="4">Shared Facility Cleaning</option>
+              <option value="5">Medical Emergency Parking (Defense‑Favored)</option>
+            </select>
+            <button type="button" id="load-example-btn" aria-label="Load example case" onclick="loadExampleCase(document.getElementById('example-case-select').value)">Load</button>
+          </div>
+          <div class="form-actions">
+            <button type="button" id="start-debate-btn" class="primary">Start Debate</button>
+          </div>
+          <div id="error-message" class="error" role="alert" aria-live="assertive" hidden></div>
+        </form>
+      </section>
+
+      <!-- Section 2: Debate Arena (3-column grid) -->
+      <section class="arena" aria-label="Debate Arena">
+        <!-- Column 1: Emotional Lawyer -->
+        <article class="column column-emotional" role="region" aria-labelledby="emotional-title">
+          <header class="column-header">
+            <h2 id="emotional-title" title="Emotional Lawyer">Emotional Lawyer 🔥</h2>
+          </header>
+          <div class="round" aria-labelledby="emo-r1-title" aria-live="polite">
+            <h3 id="emo-r1-title">Round 1 — Opening</h3>
+            <div id="emotional-r1" class="bubble" data-lawyer="emotional" data-round="1"></div>
+          </div>
+          <div class="round" aria-labelledby="emo-r2-title" aria-live="polite">
+            <h3 id="emo-r2-title">Round 2 — Counter-Argument</h3>
+            <div id="emotional-r2" class="bubble" data-lawyer="emotional" data-round="2"></div>
+          </div>
+          <div class="round" aria-labelledby="emo-r3-title" aria-live="polite">
+            <h3 id="emo-r3-title">Round 3 — Rebuttal</h3>
+            <div id="emotional-r3" class="bubble" data-lawyer="emotional" data-round="3"></div>
+          </div>
+        </article>
+
+        <!-- Column 2: Judge -->
+        <article class="column column-judge" role="region" aria-labelledby="judge-title">
+          <header class="column-header">
+            <h2 id="judge-title" title="Judge">Judge ⚖️</h2>
+          </header>
+          <div class="verdict" aria-live="polite">
+            <h3>Verdict</h3>
+            <div id="judge-scores" class="scores">
+              <div><strong>Emotional:</strong> <span id="score-emotional">—</span></div>
+              <div><strong>Logical:</strong> <span id="score-logical">—</span></div>
+              <div><strong>Winner:</strong> <span id="winner">—</span></div>
+            </div>
+            <div id="judge-reasoning" class="bubble bubble-judge"></div>
+          </div>
+        </article>
+
+        <!-- Column 3: Logical Lawyer -->
+        <article class="column column-logical" role="region" aria-labelledby="logical-title">
+          <header class="column-header">
+            <h2 id="logical-title" title="Logical Lawyer">Logical Lawyer 🧊</h2>
+          </header>
+          <div class="round" aria-labelledby="log-r1-title" aria-live="polite">
+            <h3 id="log-r1-title">Round 1 — Opening</h3>
+            <div id="logical-r1" class="bubble" data-lawyer="logical" data-round="1"></div>
+          </div>
+          <div class="round" aria-labelledby="log-r2-title" aria-live="polite">
+            <h3 id="log-r2-title">Round 2 — Counter-Argument</h3>
+            <div id="logical-r2" class="bubble" data-lawyer="logical" data-round="2"></div>
+          </div>
+          <div class="round" aria-labelledby="log-r3-title" aria-live="polite">
+            <h3 id="log-r3-title">Round 3 — Rebuttal</h3>
+            <div id="logical-r3" class="bubble" data-lawyer="logical" data-round="3"></div>
+          </div>
+        </article>
+      </section>
+
+      <!-- Section 3: Statistics Sidebar -->
+      <aside class="panel stats" aria-labelledby="stats-title">
+        <h2 id="stats-title">Statistics</h2>
+        <ul class="stats-list">
+          <li><strong>Total debates:</strong> <span id="stat-total">0</span></li>
+          <li><strong>Emotional wins:</strong> <span id="stat-emotional">0</span></li>
+          <li><strong>Logical wins:</strong> <span id="stat-logical">0</span></li>
+          <li><strong>Emotional win %:</strong> <span id="stat-emotional-pct">0%</span></li>
+          <li><strong>Logical win %:</strong> <span id="stat-logical-pct">0%</span></li>
+        </ul>
+      </aside>
+
+      <!-- Section 4: Loading Indicator -->
+      <section class="loading" aria-live="polite" aria-busy="false" hidden id="loading">
+        <div class="spinner" role="img" aria-label="Loading"></div>
+        <p id="loading-text">Ready.</p>
+        <div class="progress" aria-hidden="true">
+          <div class="bar" id="progress-bar" style="width: 0%"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer container">
+      <small>Runs locally with Ollama (Llama 3 8B). No cloud calls.</small>
+    </footer>
+
+    <script src="js/app.js" defer></script>
+  </body>
+  </html>
