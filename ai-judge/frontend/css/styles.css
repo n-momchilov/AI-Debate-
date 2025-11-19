@@ -188,6 +188,34 @@ button.primary { background: #2a3347; border-color: #3a4252; }
 .stats .stats-list li { padding: 6px 0; border-bottom: 1px dashed var(--border); }
 .stats .stats-list li:last-child { border-bottom: none; }
 
+/* History */
+.history-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.history-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-height: 260px;
+  overflow-y: auto;
+}
+.history-list li {
+  padding: 6px 0;
+  border-bottom: 1px dashed var(--border);
+  font-size: 14px;
+  cursor: pointer;
+}
+.history-list li:last-child { border-bottom: none; }
+.history-list li span.status {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--muted);
+}
+
 /* Loading */
 .loading {
   display: flex;

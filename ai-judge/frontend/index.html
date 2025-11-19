@@ -43,6 +43,13 @@
             </select>
             <button type="button" id="load-example-btn" aria-label="Load example case" onclick="loadExampleCase(document.getElementById('example-case-select').value)">Load</button>
           </div>
+          <div class="form-row">
+            <label for="role-mode">Role Mode</label>
+            <select id="role-mode" name="role-mode">
+              <option value="emo_attack" selected>Emotional attacks, Logical defends</option>
+              <option value="emo_defend">Emotional defends, Logical attacks</option>
+            </select>
+          </div>
           <div class="form-actions">
             <button type="button" id="start-debate-btn" class="primary">Start Debate</button>
           </div>
@@ -118,6 +125,15 @@
           <li><strong>Logical win %:</strong> <span id="stat-logical-pct">0%</span></li>
         </ul>
       </aside>
+
+      <!-- Section 3b: Past Debates -->
+      <section class="panel history" aria-labelledby="history-title">
+        <div class="history-header">
+          <h2 id="history-title">Past Debates</h2>
+          <button type="button" id="refresh-history-btn">Refresh</button>
+        </div>
+        <ul id="history-list" class="history-list" aria-live="polite"></ul>
+      </section>
 
       <!-- Section 4: Loading Indicator -->
       <section class="loading" aria-live="polite" aria-busy="false" hidden id="loading">

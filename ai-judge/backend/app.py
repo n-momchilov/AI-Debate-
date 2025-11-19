@@ -8,13 +8,13 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List
 
-from fastapi import BackgroundTasks, FastAPI, HTTPException, Request
+from fastapi import BackgroundTasks, FastAPI, HTTPException, Request, Body
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, RedirectResponse, Response
 from fastapi.staticfiles import StaticFiles
 
 from backend.config import settings
-from backend.models.schemas import Argument, CaseInput, DebateTranscript, Verdict
+from backend.models.schemas import Argument, CaseInput, DebateTranscript, Verdict, DebateRoles
 from backend.utils.debate_coordinator import DebateCoordinator
 from backend.agents.emotional_lawyer import EmotionalLawyer
 from backend.agents.logical_lawyer import LogicalLawyer
@@ -169,11 +169,16 @@ def create_app() -> FastAPI:
                 if not record:
                     return
                 case_id = record["case_id"]
+                roles_dict = record.get("roles") or {}
                 case_obj = store["cases"].get(case_id)
             if not case_obj:
                 return
+            emo_role = str(roles_dict.get("emotional_role", "prosecution")).lower()
+            if emo_role not in {"prosecution", "defense"}:
+                emo_role = "prosecution"
+            log_role = "defense" if emo_role == "prosecution" else "prosecution"
 
-            coordinator = DebateCoordinator(EmotionalLawyer(), LogicalLawyer(), JudgeAgent())
+            coordinator = DebateCoordinator(EmotionalLawyer(role=emo_role), LogicalLawyer(role=log_role), JudgeAgent())
             case = CaseInput(**case_obj)
             transcript = coordinator.run_debate(case)
 
@@ -224,17 +229,25 @@ def create_app() -> FastAPI:
                     _save_debates(store)
 
     @app.post("/api/debate/start/{case_id}")
-    async def start_debate(case_id: str, background_tasks: BackgroundTasks) -> Dict[str, str]:
+    async def start_debate(
+        case_id: str,
+        background_tasks: BackgroundTasks,
+        roles: DebateRoles | None = Body(None),
+    ) -> Dict[str, str]:
         with DATA_LOCK:
             data = _load_debates()
             if case_id not in data["cases"]:
                 raise HTTPException(status_code=404, detail="Case not found")
+            role_cfg = roles or DebateRoles()
+            emo_role = role_cfg.emotional_role
+            log_role = "defense" if emo_role == "prosecution" else "prosecution"
             debate_id = f"deb-{uuid.uuid4().hex[:8]}"
             data["debates"][debate_id] = {
                 "debate_id": debate_id,
                 "case_id": case_id,
                 "status": "in_progress",
                 "timestamp": datetime.now(timezone.utc).isoformat(),
+                 "roles": {"emotional_role": emo_role, "logical_role": log_role},
                 "rounds": [[], [], []],
                 "verdict": _placeholder_verdict(),
             }
@@ -287,6 +300,44 @@ def create_app() -> FastAPI:
     async def get_statistics() -> Dict[str, int]:
         with DATA_LOCK:
             return _load_stats()
+
+    @app.get("/api/debates")
+    async def list_debates() -> List[Dict[str, Any]]:
+        """Return a lightweight list of past debates for the history panel.
+
+        Each item includes: debate_id, case_id, case_title, timestamp, status,
+        winner, emotional_score, logical_score.
+        """
+        with DATA_LOCK:
+            store = _load_debates()
+        items: List[Dict[str, Any]] = []
+        debates = store.get("debates", {}) or {}
+        cases = store.get("cases", {}) or {}
+        for key, rec in debates.items():
+            if not isinstance(rec, dict):
+                continue
+            case_id = rec.get("case_id")
+            case_obj = cases.get(case_id, {}) if isinstance(cases, dict) else {}
+            verdict = rec.get("verdict") or {}
+            items.append(
+                {
+                    "debate_id": rec.get("debate_id", key),
+                    "case_id": case_id,
+                    "case_title": case_obj.get("title", ""),
+                    "timestamp": rec.get("timestamp"),
+                    "status": rec.get("status", "in_progress"),
+                    "winner": verdict.get("winner"),
+                    "emotional_score": verdict.get("emotional_score"),
+                    "logical_score": verdict.get("logical_score"),
+                }
+            )
+
+        # Sort by timestamp descending when available
+        def _sort_key(item: Dict[str, Any]):
+            return item.get("timestamp") or ""
+
+        items.sort(key=_sort_key, reverse=True)
+        return items
 
     return app
 

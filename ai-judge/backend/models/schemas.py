@@ -112,7 +112,21 @@ class DebateTranscript(BaseModel):
             raise ValueError('status must be "in_progress", "complete", or "failed"')
         return lv
 
-    @field_validator("rounds")
+
+class DebateRoles(BaseModel):
+    """Configuration for which side each lawyer represents in a debate."""
+
+    emotional_role: str = Field("prosecution", description='"prosecution" or "defense" for Emotional lawyer')
+
+    @field_validator("emotional_role")
+    @classmethod
+    def _role_allowed(cls, v: str) -> str:
+        lv = v.strip().lower()
+        if lv not in {"prosecution", "defense"}:
+            raise ValueError('emotional_role must be "prosecution" or "defense"')
+        return lv
+
+    @field_validator("rounds", check_fields=False)
     @classmethod
     def _rounds_shape(cls, v: List[List[Argument]]) -> List[List[Argument]]:
         # Ensure 3 rounds present with up to 2 arguments each; remain permissive to allow streaming/in_progress

@@ -16,7 +16,15 @@ logger = logging.getLogger("ai_judge.agents.emotional")
 
 
 class EmotionalLawyer(BaseAgent):
-    """Passionate defense counsel with elevated temperature and emotional style."""
+    """Emotional lawyer with elevated temperature and narrative style.
+
+    The `role` attribute controls whether this agent acts as prosecution
+    (attacker) or defense (defender).
+    """
+
+    def __init__(self, role: str = "prosecution", client: Optional[None] = None) -> None:
+        super().__init__(client=client)
+        self.role = "prosecution" if role not in {"prosecution", "defense"} else role
 
     def generate_argument(self, case: str, context: Optional[Dict[str, Any]] = None) -> str:
         ctx = context or {}
@@ -24,18 +32,35 @@ class EmotionalLawyer(BaseAgent):
         opponent_argument = ctx.get("opponent_argument", "")
         your_previous_argument = ctx.get("your_previous_argument", "")
 
-        system_prompt = prompts.EMOTIONAL_LAWYER_SYSTEM_PROMPT.format(
+        base_system = prompts.EMOTIONAL_LAWYER_SYSTEM_PROMPT.format(
             case_description=case,
             opponent_argument=opponent_argument,
             your_previous_argument=your_previous_argument,
         )
+        if self.role == "prosecution":
+            role_block = (
+                "Role override: You represent the Complainant (prosecution). "
+                "Your objective is to prove the Respondent is liable and argue for a strong remedy.\n\n"
+            )
+            user_prompt = (
+                f"Round: {round_label}. You represent the Complainant (prosecution). "
+                "Attack the respondent's conduct using emotional, narrative advocacy, argue that they are liable, and state a strong remedy (payment/refund/stop order/sanction). "
+                f"Target {settings.WORD_LIMIT_MIN}-{settings.WORD_LIMIT_MAX} words. "
+                "Do not include round headers or labels in the output. Do not switch sides."
+            )
+        else:
+            role_block = (
+                "Role override: You represent the Respondent (defense). "
+                "Your objective is to defend the Respondent, challenge liability, and argue for dismissal or mitigation.\n\n"
+            )
+            user_prompt = (
+                f"Round: {round_label}. You represent the Respondent (defense). "
+                "Defend the respondent using emotional, narrative advocacy, highlight mitigating facts, and state the reduced outcome (dismissal/warning/reduction) you seek. "
+                f"Target {settings.WORD_LIMIT_MIN}-{settings.WORD_LIMIT_MAX} words. "
+                "Do not include round headers or labels in the output. Do not switch sides."
+            )
 
-        user_prompt = (
-            f"Round: {round_label}. You represent the Respondent (defense). "
-            f"Defend the respondent, argue non-liability or mitigation, and state a remedy (dismissal/warning/reduction). "
-            f"Target {settings.WORD_LIMIT_MIN}-{settings.WORD_LIMIT_MAX} words. "
-            "Do not include round headers or labels in the output. Do not switch sides."
-        )
+        system_prompt = role_block + base_system
 
         # Up to 2 attempts to meet minimum word count; always trim to max.
         last_text = ""
@@ -54,11 +79,18 @@ class EmotionalLawyer(BaseAgent):
                 return text
             last_text = text
             # If too short, adjust user prompt to emphasize the length
-            user_prompt = (
-                f"Round: {round_label}. Your previous response was under {settings.WORD_LIMIT_MIN} words. "
-                "You represent the Respondent (defense). Produce a richer, narrative defense with rhetorical questions, "
-                f"and include the remedy you seek, {settings.WORD_LIMIT_MIN}-{settings.WORD_LIMIT_MAX} words."
-            )
+            if self.role == "prosecution":
+                user_prompt = (
+                    f"Round: {round_label}. Your previous response was under {settings.WORD_LIMIT_MIN} words. "
+                    "You represent the Complainant (prosecution). Produce a richer, narrative attack with rhetorical questions, "
+                    f"and clearly state the remedy you seek, {settings.WORD_LIMIT_MIN}-{settings.WORD_LIMIT_MAX} words."
+                )
+            else:
+                user_prompt = (
+                    f"Round: {round_label}. Your previous response was under {settings.WORD_LIMIT_MIN} words. "
+                    "You represent the Respondent (defense). Produce a richer, narrative defense with rhetorical questions, "
+                    f"and clearly state the dismissal or mitigation you seek, {settings.WORD_LIMIT_MIN}-{settings.WORD_LIMIT_MAX} words."
+                )
 
         logger.warning("EmotionalLawyer produced text outside limits; returning trimmed result")
         # As a last resort, pad to minimum and trim to max to satisfy validators

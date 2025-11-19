@@ -40,10 +40,6 @@
     statL: byId('stat-logical'),
     statEpct: byId('stat-emotional-pct'),
     statLpct: byId('stat-logical-pct'),
-    // History & role mode
-    historyList: byId('history-list'),
-    historyRefreshBtn: byId('refresh-history-btn'),
-    roleMode: byId('role-mode'),
   };
 
   // Sample cases (aligned with Decision Log #10)
@@ -181,33 +177,6 @@
     }
   }
 
-  async function loadDebateHistory() {
-    if (!el.historyList) return;
-    try {
-      const res = await fetch('/api/debates');
-      if (!res.ok) throw new Error('Failed to fetch debate list');
-      const items = await res.json();
-      el.historyList.innerHTML = '';
-      if (!Array.isArray(items) || items.length === 0) {
-        const li = document.createElement('li');
-        li.textContent = 'No debates recorded yet.';
-        el.historyList.appendChild(li);
-        return;
-      }
-      for (const item of items) {
-        const li = document.createElement('li');
-        li.dataset.debateId = item.debate_id;
-        const title = item.case_title || '(untitled case)';
-        const status = item.status || 'in_progress';
-        const winner = item.winner || '—';
-        li.innerHTML = `<strong>${title}</strong> — <span class="status">${status}, winner: ${winner}</span>`;
-        el.historyList.appendChild(li);
-      }
-    } catch (err) {
-      console.warn('Failed to load debate history:', err);
-    }
-  }
-
   async function createCase(title, description) {
     const res = await fetch('/api/case/create', {
       method: 'POST',
@@ -235,13 +204,7 @@
       if (!case_id) throw new Error('No case_id returned');
 
       setLoading(true, 'Starting debate...', 10);
-      const mode = el.roleMode?.value || 'emo_attack';
-      const emotionalRole = mode === 'emo_attack' ? 'prosecution' : 'defense';
-      const res = await fetch(`/api/debate/start/${encodeURIComponent(case_id)}`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ emotional_role: emotionalRole }),
-      });
+      const res = await fetch(`/api/debate/start/${encodeURIComponent(case_id)}`, { method: 'POST' });
       if (!res.ok) throw new Error('Failed to start debate');
       const { debate_id } = await res.json();
       if (!debate_id) throw new Error('No debate_id returned');
@@ -304,7 +267,6 @@
         }
         // Refresh statistics after completion
         updateStatistics();
-        loadDebateHistory();
       } else if (status === 'failed') {
         // Stop polling and surface a clear, single failure message
         setLoading(false, 'Debate failed', 0);
@@ -314,7 +276,6 @@
         }
         const reason = (data.verdict && data.verdict.reasoning) ? String(data.verdict.reasoning) : 'Unknown error.';
         setError('Debate failed. ' + reason);
-        loadDebateHistory();
       }
     } catch (err) {
       // Keep polling silently to avoid noisy UI; show a gentle hint after a few misses
@@ -324,38 +285,6 @@
         setLoading(true, 'Waiting for server...', 0);
         // Do not spam user with errors
       }
-    }
-  }
-
-  async function loadTranscript(debateId) {
-    if (!debateId) return;
-    try {
-      setLoading(true, 'Loading debate...', 0);
-      const res = await fetch(`/api/debate/${encodeURIComponent(debateId)}`);
-      if (!res.ok) throw new Error('Failed to load debate transcript');
-      const data = await res.json();
-      resetArena();
-
-      const rounds = Array.isArray(data.rounds) ? data.rounds : [];
-      rounds.forEach((rnd, idx) => {
-        const roundNo = idx + 1;
-        if (!Array.isArray(rnd)) return;
-        rnd.forEach((arg) => {
-          const lawyer = (arg.lawyer || '').toLowerCase();
-          const content = arg.content || '';
-          if (lawyer === 'emotional' || lawyer === 'logical') {
-            displayArgument(lawyer, roundNo, content);
-          }
-        });
-      });
-      if (data.verdict) {
-        displayVerdict(data.verdict);
-      }
-      setLoading(false, 'Ready.', 0);
-    } catch (err) {
-      console.warn('Failed to load transcript:', err);
-      setLoading(false, 'Ready.', 0);
-      setError('Could not load selected debate.');
     }
   }
 
@@ -380,25 +309,6 @@
     autoResizeTextarea();
   });
 
-  if (el.historyRefreshBtn) {
-    el.historyRefreshBtn.addEventListener('click', () => {
-      loadDebateHistory();
-    });
-  }
-
-  if (el.historyList) {
-    el.historyList.addEventListener('click', (ev) => {
-      const li = ev.target.closest('li');
-      if (!li || !li.dataset.debateId) return;
-      currentDebateId = li.dataset.debateId;
-      if (pollTimer) {
-        clearInterval(pollTimer);
-        pollTimer = null;
-      }
-      loadTranscript(currentDebateId);
-    });
-  }
-
   // Initial state
   setLoading(false, 'Ready.', 0);
   updateStatistics();
@@ -414,5 +324,5 @@
   // Expose for inline HTML handler compatibility
   window.loadExampleCase = loadExampleCase;
   window.startDebate = startDebate;
-  loadDebateHistory();
 })();
+
